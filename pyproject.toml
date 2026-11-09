@@ -8,12 +8,12 @@ dynamic = ["version"]
 description = "Extract per-sample RNA expression (nTPM, sex, age) from Human Protein Atlas per-gene XML files."
 readme = "README.md"
 requires-python = ">=3.9"
-license = { text = "GPL-3.0-or-later" }
+license = { text = "GPL-3.0-only" }
 authors = [{ name = "Hércules Rezende Freitas" }]
 keywords = ["Human Protein Atlas", "RNA-seq", "nTPM", "brain", "bioinformatics", "XML"]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     "Operating System :: OS Independent",
     "Intended Audience :: Science/Research",
     "Topic :: Scientific/Engineering :: Bio-Informatics",
