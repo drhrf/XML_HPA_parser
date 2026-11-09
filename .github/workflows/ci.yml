@@ -36,3 +36,21 @@ jobs:
       # The tests never use the network: downloads are mocked and the
       # HPA XML files come from tests/fixtures/.
       - run: pytest -q
+
+  r-bridge:
+    # The Shiny app calls the Python package through reticulate; these
+    # testthat tests check that R receives the same table and files.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e .
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+      - run: Rscript -e 'install.packages(c("reticulate", "testthat", "openxlsx"))'
+      - run: Rscript -e 'testthat::test_dir("tests/testthat", stop_on_failure = TRUE)'
+        env:
+          HPA_XML_PARSER_PYTHON: python
