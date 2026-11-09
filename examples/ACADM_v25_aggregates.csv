@@ -1,0 +1,1162 @@
+gene_name,ensembl_id,assay_type,source,technology,organ,region,ontology_terms,level_type,unit,value,n_samples,hpa_version,retrieved_at,species,label_attribute
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Connective & Soft tissue,Adipose tissue,UBERON:0001013,normalizedRNAExpression,nTPM,77.0,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Connective & Soft tissue,Adipose tissue,UBERON:0001013,proteinCodingRNAExpression,pTPM,100.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Connective & Soft tissue,Adipose tissue,UBERON:0001013,RNAExpression,TPM,80.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Endocrine tissues,Adrenal gland,UBERON:0002369,normalizedRNAExpression,nTPM,77.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Endocrine tissues,Adrenal gland,UBERON:0002369,proteinCodingRNAExpression,pTPM,131.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Endocrine tissues,Adrenal gland,UBERON:0002369,RNAExpression,TPM,103.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Amygdala,UBERON:0001876,normalizedRNAExpression,nTPM,27.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Amygdala,UBERON:0001876,proteinCodingRNAExpression,pTPM,19.1,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Amygdala,UBERON:0001876,RNAExpression,TPM,15.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Appendix,UBERON:0013689,normalizedRNAExpression,nTPM,22.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Appendix,UBERON:0013689,proteinCodingRNAExpression,pTPM,43.0,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Appendix,UBERON:0013689,RNAExpression,TPM,32.0,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Basal ganglia,"UBERON:0001873,UBERON:0001874,UBERON:0001875,UBERON:0001882",normalizedRNAExpression,nTPM,27.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Basal ganglia,"UBERON:0001873,UBERON:0001874,UBERON:0001875,UBERON:0001882",proteinCodingRNAExpression,pTPM,20.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Basal ganglia,"UBERON:0001873,UBERON:0001874,UBERON:0001875,UBERON:0001882",RNAExpression,TPM,17.0,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Muscle & Vascular tissue,Blood vessel,,normalizedRNAExpression,nTPM,20.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Muscle & Vascular tissue,Blood vessel,,proteinCodingRNAExpression,pTPM,25.5,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Muscle & Vascular tissue,Blood vessel,,RNAExpression,TPM,20.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Bone marrow,UBERON:0002371,normalizedRNAExpression,nTPM,16.4,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Bone marrow,UBERON:0002371,proteinCodingRNAExpression,pTPM,14.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Bone marrow,UBERON:0002371,RNAExpression,TPM,10.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Breast,"UBERON:0000310,UBERON:0001911",normalizedRNAExpression,nTPM,65.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Breast,"UBERON:0000310,UBERON:0001911",proteinCodingRNAExpression,pTPM,106.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Breast,"UBERON:0000310,UBERON:0001911",RNAExpression,TPM,86.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Cerebellum,UBERON:0002037,normalizedRNAExpression,nTPM,16.1,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Cerebellum,UBERON:0002037,proteinCodingRNAExpression,pTPM,22.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Cerebellum,UBERON:0002037,RNAExpression,TPM,17.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Cerebral cortex,UBERON:0000956,normalizedRNAExpression,nTPM,26.0,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Cerebral cortex,UBERON:0000956,proteinCodingRNAExpression,pTPM,45.5,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Cerebral cortex,UBERON:0000956,RNAExpression,TPM,35.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Cervix,UBERON:0000002,normalizedRNAExpression,nTPM,27.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Cervix,UBERON:0000002,proteinCodingRNAExpression,pTPM,51.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Cervix,UBERON:0000002,RNAExpression,TPM,43.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Choroid plexus,UBERON:0001886,normalizedRNAExpression,nTPM,51.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Choroid plexus,UBERON:0001886,proteinCodingRNAExpression,pTPM,28.0,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Choroid plexus,UBERON:0001886,RNAExpression,TPM,22.0,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Colon,UBERON:0001155,normalizedRNAExpression,nTPM,43.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Colon,UBERON:0001155,proteinCodingRNAExpression,pTPM,57.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Colon,UBERON:0001155,RNAExpression,TPM,44.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Duodenum,UBERON:0002114,normalizedRNAExpression,nTPM,97.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Duodenum,UBERON:0002114,proteinCodingRNAExpression,pTPM,132.5,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Duodenum,UBERON:0002114,RNAExpression,TPM,103.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Endometrium 1,UBERON:0001295,normalizedRNAExpression,nTPM,18.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Endometrium 1,UBERON:0001295,proteinCodingRNAExpression,pTPM,42.1,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Endometrium 1,UBERON:0001295,RNAExpression,TPM,33.0,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Male tissues,Epididymis,UBERON:0001301,normalizedRNAExpression,nTPM,23.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Male tissues,Epididymis,UBERON:0001301,proteinCodingRNAExpression,pTPM,37.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Male tissues,Epididymis,UBERON:0001301,RNAExpression,TPM,29.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Proximal digestive tract,Esophagus,UBERON:0001043,normalizedRNAExpression,nTPM,48.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Proximal digestive tract,Esophagus,UBERON:0001043,proteinCodingRNAExpression,pTPM,65.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Proximal digestive tract,Esophagus,UBERON:0001043,RNAExpression,TPM,54.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Fallopian tube,UBERON:0003889,normalizedRNAExpression,nTPM,28.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Fallopian tube,UBERON:0003889,proteinCodingRNAExpression,pTPM,58.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Fallopian tube,UBERON:0003889,RNAExpression,TPM,47.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Liver & Gallbladder,Gallbladder,UBERON:0002110,normalizedRNAExpression,nTPM,26.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Liver & Gallbladder,Gallbladder,UBERON:0002110,proteinCodingRNAExpression,pTPM,55.5,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Liver & Gallbladder,Gallbladder,UBERON:0002110,RNAExpression,TPM,43.0,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Muscle & Vascular tissue,Heart muscle,"UBERON:0000948,UBERON:0001133",normalizedRNAExpression,nTPM,203.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Muscle & Vascular tissue,Heart muscle,"UBERON:0000948,UBERON:0001133",proteinCodingRNAExpression,pTPM,158.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Muscle & Vascular tissue,Heart muscle,"UBERON:0000948,UBERON:0001133",RNAExpression,TPM,134.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Hippocampal formation,UBERON:0002421,normalizedRNAExpression,nTPM,22.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Hippocampal formation,UBERON:0002421,proteinCodingRNAExpression,pTPM,16.1,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Hippocampal formation,UBERON:0002421,RNAExpression,TPM,12.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Hypothalamus,UBERON:0001898,normalizedRNAExpression,nTPM,24.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Hypothalamus,UBERON:0001898,proteinCodingRNAExpression,pTPM,21.4,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Hypothalamus,UBERON:0001898,RNAExpression,TPM,17.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Kidney & Urinary bladder,Kidney,UBERON:0002113,normalizedRNAExpression,nTPM,276.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Kidney & Urinary bladder,Kidney,UBERON:0002113,proteinCodingRNAExpression,pTPM,355.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Kidney & Urinary bladder,Kidney,UBERON:0002113,RNAExpression,TPM,296.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Liver & Gallbladder,Liver,UBERON:0002107,normalizedRNAExpression,nTPM,343.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Liver & Gallbladder,Liver,UBERON:0002107,proteinCodingRNAExpression,pTPM,205.5,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Liver & Gallbladder,Liver,UBERON:0002107,RNAExpression,TPM,177.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Respiratory system,Lung,UBERON:0002048,normalizedRNAExpression,nTPM,21.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Respiratory system,Lung,UBERON:0002048,proteinCodingRNAExpression,pTPM,41.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Respiratory system,Lung,UBERON:0002048,RNAExpression,TPM,33.1,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Lymph node,UBERON:0000029,normalizedRNAExpression,nTPM,39.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Lymph node,UBERON:0000029,proteinCodingRNAExpression,pTPM,63.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Lymph node,UBERON:0000029,RNAExpression,TPM,48.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Midbrain,UBERON:0001891,normalizedRNAExpression,nTPM,30.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Midbrain,UBERON:0001891,proteinCodingRNAExpression,pTPM,22.4,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Midbrain,UBERON:0001891,RNAExpression,TPM,18.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Ovary,UBERON:0000992,normalizedRNAExpression,nTPM,32.5,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Ovary,UBERON:0000992,proteinCodingRNAExpression,pTPM,47.4,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Ovary,UBERON:0000992,RNAExpression,TPM,38.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Pancreas,Pancreas,UBERON:0001264,normalizedRNAExpression,nTPM,33.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Pancreas,Pancreas,UBERON:0001264,proteinCodingRNAExpression,pTPM,11.1,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Pancreas,Pancreas,UBERON:0001264,RNAExpression,TPM,9.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Endocrine tissues,Parathyroid gland,UBERON:0001132,normalizedRNAExpression,nTPM,62.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Endocrine tissues,Parathyroid gland,UBERON:0001132,proteinCodingRNAExpression,pTPM,81.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Endocrine tissues,Parathyroid gland,UBERON:0001132,RNAExpression,TPM,64.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Endocrine tissues,Pituitary gland,UBERON:0000007,normalizedRNAExpression,nTPM,16.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Endocrine tissues,Pituitary gland,UBERON:0000007,proteinCodingRNAExpression,pTPM,23.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Endocrine tissues,Pituitary gland,UBERON:0000007,RNAExpression,TPM,18.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Placenta,UBERON:0001987,normalizedRNAExpression,nTPM,15.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Placenta,UBERON:0001987,proteinCodingRNAExpression,pTPM,29.1,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Placenta,UBERON:0001987,RNAExpression,TPM,23.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Male tissues,Prostate,UBERON:0002367,normalizedRNAExpression,nTPM,25.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Male tissues,Prostate,UBERON:0002367,proteinCodingRNAExpression,pTPM,52.5,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Male tissues,Prostate,UBERON:0002367,RNAExpression,TPM,41.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Rectum,UBERON:0001052,normalizedRNAExpression,nTPM,46.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Rectum,UBERON:0001052,proteinCodingRNAExpression,pTPM,66.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Rectum,UBERON:0001052,RNAExpression,TPM,52.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Eye,Retina,UBERON:0000966,normalizedRNAExpression,nTPM,19.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Eye,Retina,UBERON:0000966,proteinCodingRNAExpression,pTPM,42.0,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Eye,Retina,UBERON:0000966,RNAExpression,TPM,28.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Proximal digestive tract,Salivary gland,UBERON:0001044,normalizedRNAExpression,nTPM,29.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Proximal digestive tract,Salivary gland,UBERON:0001044,proteinCodingRNAExpression,pTPM,21.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Proximal digestive tract,Salivary gland,UBERON:0001044,RNAExpression,TPM,17.1,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Male tissues,Seminal vesicle,UBERON:0000998,normalizedRNAExpression,nTPM,24.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Male tissues,Seminal vesicle,UBERON:0000998,proteinCodingRNAExpression,pTPM,43.5,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Male tissues,Seminal vesicle,UBERON:0000998,RNAExpression,TPM,35.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Muscle & Vascular tissue,Skeletal muscle,UBERON:0001134,normalizedRNAExpression,nTPM,357.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Muscle & Vascular tissue,Skeletal muscle,UBERON:0001134,proteinCodingRNAExpression,pTPM,150.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Muscle & Vascular tissue,Skeletal muscle,UBERON:0001134,RNAExpression,TPM,129.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Skin,Skin 1,"UBERON:0000014,UBERON:0001003",normalizedRNAExpression,nTPM,13.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Skin,Skin 1,"UBERON:0000014,UBERON:0001003",proteinCodingRNAExpression,pTPM,17.1,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Skin,Skin 1,"UBERON:0000014,UBERON:0001003",RNAExpression,TPM,13.1,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Small intestine,UBERON:0002108,normalizedRNAExpression,nTPM,71.4,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Small intestine,UBERON:0002108,proteinCodingRNAExpression,pTPM,103.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Small intestine,UBERON:0002108,RNAExpression,TPM,80.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Muscle & Vascular tissue,Smooth muscle,UBERON:0001135,normalizedRNAExpression,nTPM,23.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Muscle & Vascular tissue,Smooth muscle,UBERON:0001135,proteinCodingRNAExpression,pTPM,44.5,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Muscle & Vascular tissue,Smooth muscle,UBERON:0001135,RNAExpression,TPM,36.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Spinal cord,UBERON:0002240,normalizedRNAExpression,nTPM,23.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Spinal cord,UBERON:0002240,proteinCodingRNAExpression,pTPM,20.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Brain,Spinal cord,UBERON:0002240,RNAExpression,TPM,16.4,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Spleen,UBERON:0002106,normalizedRNAExpression,nTPM,25.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Spleen,UBERON:0002106,proteinCodingRNAExpression,pTPM,50.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Spleen,UBERON:0002106,RNAExpression,TPM,37.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Stomach 1,UBERON:0000945,normalizedRNAExpression,nTPM,50.4,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Stomach 1,UBERON:0000945,proteinCodingRNAExpression,pTPM,57.5,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Gastrointestinal tract,Stomach 1,UBERON:0000945,RNAExpression,TPM,46.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Male tissues,Testis,UBERON:0000473,normalizedRNAExpression,nTPM,33.4,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Male tissues,Testis,UBERON:0000473,proteinCodingRNAExpression,pTPM,85.1,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Male tissues,Testis,UBERON:0000473,RNAExpression,TPM,63.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Thymus,UBERON:0002370,normalizedRNAExpression,nTPM,27.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Thymus,UBERON:0002370,proteinCodingRNAExpression,pTPM,49.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Thymus,UBERON:0002370,RNAExpression,TPM,38.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Endocrine tissues,Thyroid gland,UBERON:0002046,normalizedRNAExpression,nTPM,36.0,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Endocrine tissues,Thyroid gland,UBERON:0002046,proteinCodingRNAExpression,pTPM,79.4,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Endocrine tissues,Thyroid gland,UBERON:0002046,RNAExpression,TPM,62.8,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Proximal digestive tract,Tongue,UBERON:0001723,normalizedRNAExpression,nTPM,445.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Proximal digestive tract,Tongue,UBERON:0001723,proteinCodingRNAExpression,pTPM,235.0,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Proximal digestive tract,Tongue,UBERON:0001723,RNAExpression,TPM,185.2,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Tonsil,UBERON:0002372,normalizedRNAExpression,nTPM,41.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Tonsil,UBERON:0002372,proteinCodingRNAExpression,pTPM,52.0,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Tonsil,UBERON:0002372,RNAExpression,TPM,39.7,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Kidney & Urinary bladder,Urinary bladder,UBERON:0001255,normalizedRNAExpression,nTPM,30.6,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Kidney & Urinary bladder,Urinary bladder,UBERON:0001255,proteinCodingRNAExpression,pTPM,47.4,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Kidney & Urinary bladder,Urinary bladder,UBERON:0001255,RNAExpression,TPM,37.5,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Vagina,UBERON:0000996,normalizedRNAExpression,nTPM,19.3,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Vagina,UBERON:0000996,proteinCodingRNAExpression,pTPM,23.9,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,consensusTissue,HPA,RNAseq,Female tissues,Vagina,UBERON:0000996,RNAExpression,TPM,19.4,0,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Connective & Soft tissue,Adipose tissue,UBERON:0001013,normalizedRNAExpression,nTPM,77.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Connective & Soft tissue,Adipose tissue,UBERON:0001013,proteinCodingRNAExpression,pTPM,100.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Connective & Soft tissue,Adipose tissue,UBERON:0001013,RNAExpression,TPM,80.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Endocrine tissues,Adrenal gland,UBERON:0002369,normalizedRNAExpression,nTPM,77.8,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Endocrine tissues,Adrenal gland,UBERON:0002369,proteinCodingRNAExpression,pTPM,131.7,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Endocrine tissues,Adrenal gland,UBERON:0002369,RNAExpression,TPM,103.7,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Appendix,UBERON:0013689,normalizedRNAExpression,nTPM,22.9,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Appendix,UBERON:0013689,proteinCodingRNAExpression,pTPM,43.0,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Appendix,UBERON:0013689,RNAExpression,TPM,32.0,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Bone marrow,UBERON:0002371,normalizedRNAExpression,nTPM,16.4,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Bone marrow,UBERON:0002371,proteinCodingRNAExpression,pTPM,14.3,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Bone marrow,UBERON:0002371,RNAExpression,TPM,10.8,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Breast,"UBERON:0000310,UBERON:0001911",normalizedRNAExpression,nTPM,65.7,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Breast,"UBERON:0000310,UBERON:0001911",proteinCodingRNAExpression,pTPM,106.3,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Breast,"UBERON:0000310,UBERON:0001911",RNAExpression,TPM,86.3,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Brain,Cerebral cortex,UBERON:0000956,normalizedRNAExpression,nTPM,21.0,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Brain,Cerebral cortex,UBERON:0000956,proteinCodingRNAExpression,pTPM,45.5,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Brain,Cerebral cortex,UBERON:0000956,RNAExpression,TPM,35.9,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Cervix,UBERON:0000002,normalizedRNAExpression,nTPM,27.7,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Cervix,UBERON:0000002,proteinCodingRNAExpression,pTPM,51.8,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Cervix,UBERON:0000002,RNAExpression,TPM,43.2,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Brain,Choroid plexus,UBERON:0001886,normalizedRNAExpression,nTPM,51.3,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Brain,Choroid plexus,UBERON:0001886,proteinCodingRNAExpression,pTPM,28.0,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Brain,Choroid plexus,UBERON:0001886,RNAExpression,TPM,22.0,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Colon,UBERON:0001155,normalizedRNAExpression,nTPM,43.9,13,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Colon,UBERON:0001155,proteinCodingRNAExpression,pTPM,57.7,13,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Colon,UBERON:0001155,RNAExpression,TPM,44.6,13,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Duodenum,UBERON:0002114,normalizedRNAExpression,nTPM,97.9,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Duodenum,UBERON:0002114,proteinCodingRNAExpression,pTPM,132.5,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Duodenum,UBERON:0002114,RNAExpression,TPM,103.6,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Endometrium 1,UBERON:0001295,normalizedRNAExpression,nTPM,18.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Endometrium 1,UBERON:0001295,proteinCodingRNAExpression,pTPM,42.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Endometrium 1,UBERON:0001295,RNAExpression,TPM,33.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Male tissues,Epididymis,UBERON:0001301,normalizedRNAExpression,nTPM,23.9,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Male tissues,Epididymis,UBERON:0001301,proteinCodingRNAExpression,pTPM,37.6,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Male tissues,Epididymis,UBERON:0001301,RNAExpression,TPM,29.6,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Proximal digestive tract,Esophagus,UBERON:0001043,normalizedRNAExpression,nTPM,48.3,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Proximal digestive tract,Esophagus,UBERON:0001043,proteinCodingRNAExpression,pTPM,65.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Proximal digestive tract,Esophagus,UBERON:0001043,RNAExpression,TPM,54.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Fallopian tube,UBERON:0003889,normalizedRNAExpression,nTPM,28.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Fallopian tube,UBERON:0003889,proteinCodingRNAExpression,pTPM,58.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Fallopian tube,UBERON:0003889,RNAExpression,TPM,47.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Liver & Gallbladder,Gallbladder,UBERON:0002110,normalizedRNAExpression,nTPM,26.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Liver & Gallbladder,Gallbladder,UBERON:0002110,proteinCodingRNAExpression,pTPM,55.5,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Liver & Gallbladder,Gallbladder,UBERON:0002110,RNAExpression,TPM,43.0,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Muscle & Vascular tissue,Heart muscle,"UBERON:0000948,UBERON:0001133",normalizedRNAExpression,nTPM,203.9,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Muscle & Vascular tissue,Heart muscle,"UBERON:0000948,UBERON:0001133",proteinCodingRNAExpression,pTPM,158.7,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Muscle & Vascular tissue,Heart muscle,"UBERON:0000948,UBERON:0001133",RNAExpression,TPM,134.2,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Kidney & Urinary bladder,Kidney,UBERON:0002113,normalizedRNAExpression,nTPM,276.6,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Kidney & Urinary bladder,Kidney,UBERON:0002113,proteinCodingRNAExpression,pTPM,355.2,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Kidney & Urinary bladder,Kidney,UBERON:0002113,RNAExpression,TPM,296.2,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Liver & Gallbladder,Liver,UBERON:0002107,normalizedRNAExpression,nTPM,343.6,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Liver & Gallbladder,Liver,UBERON:0002107,proteinCodingRNAExpression,pTPM,205.5,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Liver & Gallbladder,Liver,UBERON:0002107,RNAExpression,TPM,177.7,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Respiratory system,Lung,UBERON:0002048,normalizedRNAExpression,nTPM,21.3,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Respiratory system,Lung,UBERON:0002048,proteinCodingRNAExpression,pTPM,41.7,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Respiratory system,Lung,UBERON:0002048,RNAExpression,TPM,33.1,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Lymph node,UBERON:0000029,normalizedRNAExpression,nTPM,39.9,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Lymph node,UBERON:0000029,proteinCodingRNAExpression,pTPM,63.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Lymph node,UBERON:0000029,RNAExpression,TPM,48.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Ovary,UBERON:0000992,normalizedRNAExpression,nTPM,32.5,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Ovary,UBERON:0000992,proteinCodingRNAExpression,pTPM,47.4,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Ovary,UBERON:0000992,RNAExpression,TPM,38.6,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Pancreas,Pancreas,UBERON:0001264,normalizedRNAExpression,nTPM,33.9,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Pancreas,Pancreas,UBERON:0001264,proteinCodingRNAExpression,pTPM,9.4,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Pancreas,Pancreas,UBERON:0001264,RNAExpression,TPM,7.5,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Endocrine tissues,Parathyroid gland,UBERON:0001132,normalizedRNAExpression,nTPM,62.3,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Endocrine tissues,Parathyroid gland,UBERON:0001132,proteinCodingRNAExpression,pTPM,81.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Endocrine tissues,Parathyroid gland,UBERON:0001132,RNAExpression,TPM,64.7,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Placenta,UBERON:0001987,normalizedRNAExpression,nTPM,15.9,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Placenta,UBERON:0001987,proteinCodingRNAExpression,pTPM,29.1,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Female tissues,Placenta,UBERON:0001987,RNAExpression,TPM,23.8,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Male tissues,Prostate,UBERON:0002367,normalizedRNAExpression,nTPM,25.2,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Male tissues,Prostate,UBERON:0002367,proteinCodingRNAExpression,pTPM,52.5,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Male tissues,Prostate,UBERON:0002367,RNAExpression,TPM,41.9,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Rectum,UBERON:0001052,normalizedRNAExpression,nTPM,46.6,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Rectum,UBERON:0001052,proteinCodingRNAExpression,pTPM,66.9,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Rectum,UBERON:0001052,RNAExpression,TPM,52.3,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Proximal digestive tract,Salivary gland,UBERON:0001044,normalizedRNAExpression,nTPM,29.6,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Proximal digestive tract,Salivary gland,UBERON:0001044,proteinCodingRNAExpression,pTPM,21.3,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Proximal digestive tract,Salivary gland,UBERON:0001044,RNAExpression,TPM,13.0,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Male tissues,Seminal vesicle,UBERON:0000998,normalizedRNAExpression,nTPM,24.7,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Male tissues,Seminal vesicle,UBERON:0000998,proteinCodingRNAExpression,pTPM,43.5,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Male tissues,Seminal vesicle,UBERON:0000998,RNAExpression,TPM,35.6,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Muscle & Vascular tissue,Skeletal muscle,UBERON:0001134,normalizedRNAExpression,nTPM,357.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Muscle & Vascular tissue,Skeletal muscle,UBERON:0001134,proteinCodingRNAExpression,pTPM,150.7,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Muscle & Vascular tissue,Skeletal muscle,UBERON:0001134,RNAExpression,TPM,129.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Skin,Skin 1,"UBERON:0000014,UBERON:0001003",normalizedRNAExpression,nTPM,10.7,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Skin,Skin 1,"UBERON:0000014,UBERON:0001003",proteinCodingRNAExpression,pTPM,17.1,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Skin,Skin 1,"UBERON:0000014,UBERON:0001003",RNAExpression,TPM,13.1,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Small intestine,UBERON:0002108,normalizedRNAExpression,nTPM,71.4,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Small intestine,UBERON:0002108,proteinCodingRNAExpression,pTPM,103.8,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Small intestine,UBERON:0002108,RNAExpression,TPM,80.9,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Muscle & Vascular tissue,Smooth muscle,UBERON:0001135,normalizedRNAExpression,nTPM,23.8,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Muscle & Vascular tissue,Smooth muscle,UBERON:0001135,proteinCodingRNAExpression,pTPM,44.5,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Muscle & Vascular tissue,Smooth muscle,UBERON:0001135,RNAExpression,TPM,36.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Spleen,UBERON:0002106,normalizedRNAExpression,nTPM,25.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Spleen,UBERON:0002106,proteinCodingRNAExpression,pTPM,50.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Spleen,UBERON:0002106,RNAExpression,TPM,37.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Stomach 1,UBERON:0000945,normalizedRNAExpression,nTPM,50.4,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Stomach 1,UBERON:0000945,proteinCodingRNAExpression,pTPM,57.5,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Gastrointestinal tract,Stomach 1,UBERON:0000945,RNAExpression,TPM,46.3,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Male tissues,Testis,UBERON:0000473,normalizedRNAExpression,nTPM,33.4,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Male tissues,Testis,UBERON:0000473,proteinCodingRNAExpression,pTPM,85.1,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Male tissues,Testis,UBERON:0000473,RNAExpression,TPM,63.6,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Thymus,UBERON:0002370,normalizedRNAExpression,nTPM,27.7,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Thymus,UBERON:0002370,proteinCodingRNAExpression,pTPM,49.6,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Thymus,UBERON:0002370,RNAExpression,TPM,38.6,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Endocrine tissues,Thyroid gland,UBERON:0002046,normalizedRNAExpression,nTPM,36.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Endocrine tissues,Thyroid gland,UBERON:0002046,proteinCodingRNAExpression,pTPM,79.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Endocrine tissues,Thyroid gland,UBERON:0002046,RNAExpression,TPM,62.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Proximal digestive tract,Tongue,UBERON:0001723,normalizedRNAExpression,nTPM,445.9,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Proximal digestive tract,Tongue,UBERON:0001723,proteinCodingRNAExpression,pTPM,235.0,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Proximal digestive tract,Tongue,UBERON:0001723,RNAExpression,TPM,185.2,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Tonsil,UBERON:0002372,normalizedRNAExpression,nTPM,41.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Tonsil,UBERON:0002372,proteinCodingRNAExpression,pTPM,52.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Bone marrow & Lymphoid tissues,Tonsil,UBERON:0002372,RNAExpression,TPM,39.7,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Kidney & Urinary bladder,Urinary bladder,UBERON:0001255,normalizedRNAExpression,nTPM,30.6,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Kidney & Urinary bladder,Urinary bladder,UBERON:0001255,proteinCodingRNAExpression,pTPM,47.4,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,tissue,HPA,RNAseq,Kidney & Urinary bladder,Urinary bladder,UBERON:0001255,RNAExpression,TPM,37.5,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,normalizedRNAExpression,nTPM,2.9,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,proteinCodingRNAExpression,pTPM,3.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,RNAExpression,TPM,2.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Angular gyrus,,normalizedRNAExpression,nTPM,1.3,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Angular gyrus,,proteinCodingRNAExpression,pTPM,1.7,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Angular gyrus,,RNAExpression,TPM,1.1,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Angular gyrus (white matter),,normalizedRNAExpression,nTPM,0.1,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Angular gyrus (white matter),,proteinCodingRNAExpression,pTPM,0.3,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Angular gyrus (white matter),,RNAExpression,TPM,0.2,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Anterior cingulate cortex, supragenual-dorsal",,normalizedRNAExpression,nTPM,0.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Anterior cingulate cortex, supragenual-dorsal",,proteinCodingRNAExpression,pTPM,0.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Anterior cingulate cortex, supragenual-dorsal",,RNAExpression,TPM,0.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Anterior cingulate cortex, supragenual-ventral",,normalizedRNAExpression,nTPM,0.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Anterior cingulate cortex, supragenual-ventral",,proteinCodingRNAExpression,pTPM,0.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Anterior cingulate cortex, supragenual-ventral",,RNAExpression,TPM,0.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Anterior cochlear nucleus, ventral",,normalizedRNAExpression,nTPM,0.4,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Anterior cochlear nucleus, ventral",,proteinCodingRNAExpression,pTPM,0.6,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Anterior cochlear nucleus, ventral",,RNAExpression,TPM,0.4,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Anterior funiculus (white matter),,normalizedRNAExpression,nTPM,2.0,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Anterior funiculus (white matter),,proteinCodingRNAExpression,pTPM,5.5,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Anterior funiculus (white matter),,RNAExpression,TPM,3.6,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Anterior insular cortex, dorsal",,normalizedRNAExpression,nTPM,1.0,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Anterior insular cortex, dorsal",,proteinCodingRNAExpression,pTPM,0.6,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Anterior insular cortex, dorsal",,RNAExpression,TPM,0.4,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Anterior insular cortex, ventral",,normalizedRNAExpression,nTPM,0.5,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Anterior insular cortex, ventral",,proteinCodingRNAExpression,pTPM,0.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Anterior insular cortex, ventral",,RNAExpression,TPM,0.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,"Anterior thalamic nucleus, ventral",,normalizedRNAExpression,nTPM,1.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,"Anterior thalamic nucleus, ventral",,proteinCodingRNAExpression,pTPM,0.5,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,"Anterior thalamic nucleus, ventral",,RNAExpression,TPM,0.4,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Arcuate nucleus,,normalizedRNAExpression,nTPM,0.7,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Arcuate nucleus,,proteinCodingRNAExpression,pTPM,0.2,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Arcuate nucleus,,RNAExpression,TPM,0.1,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Area parastriata, inferior",,normalizedRNAExpression,nTPM,0.3,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Area parastriata, inferior",,proteinCodingRNAExpression,pTPM,0.1,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Area parastriata, inferior",,RNAExpression,TPM,0.1,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Area parastriata, parietal",,normalizedRNAExpression,nTPM,1.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Area parastriata, parietal",,proteinCodingRNAExpression,pTPM,0.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Area parastriata, parietal",,RNAExpression,TPM,0.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Area parastriata, superior",,normalizedRNAExpression,nTPM,2.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Area parastriata, superior",,proteinCodingRNAExpression,pTPM,1.6,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Area parastriata, superior",,RNAExpression,TPM,1.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Area parastriata, temporal",,normalizedRNAExpression,nTPM,1.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Area parastriata, temporal",,proteinCodingRNAExpression,pTPM,1.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Area parastriata, temporal",,RNAExpression,TPM,0.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Area postrema,,normalizedRNAExpression,nTPM,2.3,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Area postrema,,proteinCodingRNAExpression,pTPM,3.0,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Area postrema,,RNAExpression,TPM,2.0,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Area striata,,normalizedRNAExpression,nTPM,1.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Area striata,,proteinCodingRNAExpression,pTPM,0.7,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Area striata,,RNAExpression,TPM,0.5,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Area striata (white matter),,normalizedRNAExpression,nTPM,0.4,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Area striata (white matter),,proteinCodingRNAExpression,pTPM,0.2,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Area striata (white matter),,RNAExpression,TPM,0.1,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Basal amygdala,,normalizedRNAExpression,nTPM,0.6,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Basal amygdala,,proteinCodingRNAExpression,pTPM,0.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Basal amygdala,,RNAExpression,TPM,0.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Caudate nucleus,,normalizedRNAExpression,nTPM,1.2,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Caudate nucleus,,proteinCodingRNAExpression,pTPM,1.6,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Caudate nucleus,,RNAExpression,TPM,1.2,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Central amygdala,,normalizedRNAExpression,nTPM,0.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Central amygdala,,proteinCodingRNAExpression,pTPM,0.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Central amygdala,,RNAExpression,TPM,0.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Centromedial thalamic nucleus,,normalizedRNAExpression,nTPM,3.8,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Centromedial thalamic nucleus,,proteinCodingRNAExpression,pTPM,5.6,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Centromedial thalamic nucleus,,RNAExpression,TPM,3.8,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CB,Cerebellar cortex,,normalizedRNAExpression,nTPM,0.8,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CB,Cerebellar cortex,,proteinCodingRNAExpression,pTPM,0.8,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CB,Cerebellar cortex,,RNAExpression,TPM,0.5,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CB,Cerebellar nuclei,,normalizedRNAExpression,nTPM,5.5,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CB,Cerebellar nuclei,,proteinCodingRNAExpression,pTPM,7.6,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CB,Cerebellar nuclei,,RNAExpression,TPM,5.6,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Cerebellar white matter,,normalizedRNAExpression,nTPM,0.9,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Cerebellar white matter,,proteinCodingRNAExpression,pTPM,0.9,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Cerebellar white matter,,RNAExpression,TPM,0.6,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,SC,"Cervical spinal cord, central gray",,normalizedRNAExpression,nTPM,2.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,SC,"Cervical spinal cord, central gray",,proteinCodingRNAExpression,pTPM,5.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,SC,"Cervical spinal cord, central gray",,RNAExpression,TPM,3.5,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,SC,"Cervical spinal cord, dorsal horn",,normalizedRNAExpression,nTPM,2.7,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,SC,"Cervical spinal cord, dorsal horn",,proteinCodingRNAExpression,pTPM,3.9,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,SC,"Cervical spinal cord, dorsal horn",,RNAExpression,TPM,2.6,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,SC,"Cervical spinal cord, ventral horn",,normalizedRNAExpression,nTPM,4.6,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,SC,"Cervical spinal cord, ventral horn",,proteinCodingRNAExpression,pTPM,7.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,SC,"Cervical spinal cord, ventral horn",,RNAExpression,TPM,4.9,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CP,Choroid plexus,UBERON:0001886,normalizedRNAExpression,nTPM,16.1,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CP,Choroid plexus,UBERON:0001886,proteinCodingRNAExpression,pTPM,12.0,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CP,Choroid plexus,UBERON:0001886,RNAExpression,TPM,9.3,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Claustrum,,normalizedRNAExpression,nTPM,0.3,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Claustrum,,proteinCodingRNAExpression,pTPM,0.4,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Claustrum,,RNAExpression,TPM,0.3,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,"Corpus callosum, genu (white matter)",,normalizedRNAExpression,nTPM,1.6,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,"Corpus callosum, genu (white matter)",,proteinCodingRNAExpression,pTPM,1.8,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,"Corpus callosum, genu (white matter)",,RNAExpression,TPM,1.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,"Corpus callosum, splenium (white matter)",,normalizedRNAExpression,nTPM,1.5,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,"Corpus callosum, splenium (white matter)",,proteinCodingRNAExpression,pTPM,3.0,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,"Corpus callosum, splenium (white matter)",,RNAExpression,TPM,2.0,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Corticomedial amygdala,,normalizedRNAExpression,nTPM,0.9,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Corticomedial amygdala,,proteinCodingRNAExpression,pTPM,1.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Corticomedial amygdala,,RNAExpression,TPM,0.8,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Cuneiform nucleus,,normalizedRNAExpression,nTPM,1.9,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Cuneiform nucleus,,proteinCodingRNAExpression,pTPM,2.3,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Cuneiform nucleus,,RNAExpression,TPM,1.6,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Dentate gyrus,,normalizedRNAExpression,nTPM,0.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Dentate gyrus,,proteinCodingRNAExpression,pTPM,0.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Dentate gyrus,,RNAExpression,TPM,0.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Dorsal cochlear nucleus,,normalizedRNAExpression,nTPM,3.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Dorsal cochlear nucleus,,proteinCodingRNAExpression,pTPM,2.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Dorsal cochlear nucleus,,RNAExpression,TPM,1.7,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Dorsal funiculus (white matter),,normalizedRNAExpression,nTPM,1.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Dorsal funiculus (white matter),,proteinCodingRNAExpression,pTPM,2.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Dorsal funiculus (white matter),,RNAExpression,TPM,1.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Dorsal medullary reticular nucleus,,normalizedRNAExpression,nTPM,1.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Dorsal medullary reticular nucleus,,proteinCodingRNAExpression,pTPM,1.6,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Dorsal medullary reticular nucleus,,RNAExpression,TPM,1.0,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Dorsal motor vagal complex,,normalizedRNAExpression,nTPM,2.5,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Dorsal motor vagal complex,,proteinCodingRNAExpression,pTPM,3.0,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Dorsal motor vagal complex,,RNAExpression,TPM,2.2,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Dorsal raphe nucleus,,normalizedRNAExpression,nTPM,1.9,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Dorsal raphe nucleus,,proteinCodingRNAExpression,pTPM,3.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Dorsal raphe nucleus,,RNAExpression,TPM,2.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Dorsal tegmental nucleus,,normalizedRNAExpression,nTPM,2.0,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Dorsal tegmental nucleus,,proteinCodingRNAExpression,pTPM,2.2,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Dorsal tegmental nucleus,,RNAExpression,TPM,1.5,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Dorsolateral tegmental area,,normalizedRNAExpression,nTPM,2.7,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Dorsolateral tegmental area,,proteinCodingRNAExpression,pTPM,3.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Dorsolateral tegmental area,,RNAExpression,TPM,2.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Dorsomedial nucleus,,normalizedRNAExpression,nTPM,1.8,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Dorsomedial nucleus,,proteinCodingRNAExpression,pTPM,5.3,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Dorsomedial nucleus,,RNAExpression,TPM,3.8,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Entorhinal gyrus,,normalizedRNAExpression,nTPM,0.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Entorhinal gyrus,,proteinCodingRNAExpression,pTPM,0.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Entorhinal gyrus,,RNAExpression,TPM,0.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CB,Flocculonodular lobe,,normalizedRNAExpression,nTPM,0.5,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CB,Flocculonodular lobe,,proteinCodingRNAExpression,pTPM,0.9,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CB,Flocculonodular lobe,,RNAExpression,TPM,0.5,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Frontal eye field,,normalizedRNAExpression,nTPM,3.6,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Frontal eye field,,proteinCodingRNAExpression,pTPM,2.7,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Frontal eye field,,RNAExpression,TPM,1.8,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Frontal operculum,,normalizedRNAExpression,nTPM,0.6,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Frontal operculum,,proteinCodingRNAExpression,pTPM,0.4,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Frontal operculum,,RNAExpression,TPM,0.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Fusiform gyrus,,normalizedRNAExpression,nTPM,0.4,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Fusiform gyrus,,proteinCodingRNAExpression,pTPM,0.4,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Fusiform gyrus,,RNAExpression,TPM,0.3,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Gigantocellular reticular nuclei, medullary",,normalizedRNAExpression,nTPM,0.5,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Gigantocellular reticular nuclei, medullary",,proteinCodingRNAExpression,pTPM,0.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Gigantocellular reticular nuclei, medullary",,RNAExpression,TPM,0.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Gigantocellular reticular nuclei, pars",,normalizedRNAExpression,nTPM,1.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Gigantocellular reticular nuclei, pars",,proteinCodingRNAExpression,pTPM,1.9,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Gigantocellular reticular nuclei, pars",,RNAExpression,TPM,1.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,"Globus pallidus, externus",,normalizedRNAExpression,nTPM,1.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,"Globus pallidus, externus",,proteinCodingRNAExpression,pTPM,4.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,"Globus pallidus, externus",,RNAExpression,TPM,3.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,"Globus pallidus, internus",,normalizedRNAExpression,nTPM,0.9,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,"Globus pallidus, internus",,proteinCodingRNAExpression,pTPM,1.0,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,"Globus pallidus, internus",,RNAExpression,TPM,0.7,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Habenula,,normalizedRNAExpression,nTPM,2.1,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Habenula,,proteinCodingRNAExpression,pTPM,4.8,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Habenula,,RNAExpression,TPM,3.4,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Hippocampus,UBERON:0002305,normalizedRNAExpression,nTPM,0.5,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Hippocampus,UBERON:0002305,proteinCodingRNAExpression,pTPM,0.5,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Hippocampus,UBERON:0002305,RNAExpression,TPM,0.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,"Hippocampus, CA1",,normalizedRNAExpression,nTPM,0.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,"Hippocampus, CA1",,proteinCodingRNAExpression,pTPM,0.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,"Hippocampus, CA1",,RNAExpression,TPM,0.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,"Hippocampus, CA2",,normalizedRNAExpression,nTPM,0.6,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,"Hippocampus, CA2",,proteinCodingRNAExpression,pTPM,0.6,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,"Hippocampus, CA2",,RNAExpression,TPM,0.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,"Hippocampus, CA3",,normalizedRNAExpression,nTPM,0.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,"Hippocampus, CA3",,proteinCodingRNAExpression,pTPM,0.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,"Hippocampus, CA3",,RNAExpression,TPM,0.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Inferior colliculus,,normalizedRNAExpression,nTPM,3.7,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Inferior colliculus,,proteinCodingRNAExpression,pTPM,5.8,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Inferior colliculus,,RNAExpression,TPM,4.2,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Inferior frontal gyrus, opercular",,normalizedRNAExpression,nTPM,1.6,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Inferior frontal gyrus, opercular",,proteinCodingRNAExpression,pTPM,1.3,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Inferior frontal gyrus, opercular",,RNAExpression,TPM,0.9,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Inferior olive,,normalizedRNAExpression,nTPM,1.9,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Inferior olive,,proteinCodingRNAExpression,pTPM,1.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Inferior olive,,RNAExpression,TPM,1.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Inferior parietal lobule,,normalizedRNAExpression,nTPM,2.5,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Inferior parietal lobule,,proteinCodingRNAExpression,pTPM,2.3,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Inferior parietal lobule,,RNAExpression,TPM,1.8,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Inferior temporal gyrus,,normalizedRNAExpression,nTPM,1.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Inferior temporal gyrus,,proteinCodingRNAExpression,pTPM,0.9,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Inferior temporal gyrus,,RNAExpression,TPM,0.6,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Intraparietal deep sulcus,,normalizedRNAExpression,nTPM,0.6,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Intraparietal deep sulcus,,proteinCodingRNAExpression,pTPM,0.5,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Intraparietal deep sulcus,,RNAExpression,TPM,0.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Kolliker-Fuse nucleus,,normalizedRNAExpression,nTPM,3.6,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Kolliker-Fuse nucleus,,proteinCodingRNAExpression,pTPM,4.8,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Kolliker-Fuse nucleus,,RNAExpression,TPM,3.3,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Lateral amygdala,,normalizedRNAExpression,nTPM,0.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Lateral amygdala,,proteinCodingRNAExpression,pTPM,0.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,AMY,Lateral amygdala,,RNAExpression,TPM,0.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Lateral funiculus (white matter),,normalizedRNAExpression,nTPM,1.6,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Lateral funiculus (white matter),,proteinCodingRNAExpression,pTPM,2.6,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Lateral funiculus (white matter),,RNAExpression,TPM,1.7,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Lateral geniculate body,,normalizedRNAExpression,nTPM,3.6,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Lateral geniculate body,,proteinCodingRNAExpression,pTPM,3.8,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Lateral geniculate body,,RNAExpression,TPM,2.7,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Lateral hypothalamic area,,normalizedRNAExpression,nTPM,0.3,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Lateral hypothalamic area,,proteinCodingRNAExpression,pTPM,0.3,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Lateral hypothalamic area,,RNAExpression,TPM,0.2,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Lateral lemniscal nuclei,,normalizedRNAExpression,nTPM,1.5,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Lateral lemniscal nuclei,,proteinCodingRNAExpression,pTPM,2.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Lateral lemniscal nuclei,,RNAExpression,TPM,1.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Lateral medullary reticular nucleus,,normalizedRNAExpression,nTPM,2.7,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Lateral medullary reticular nucleus,,proteinCodingRNAExpression,pTPM,2.9,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Lateral medullary reticular nucleus,,RNAExpression,TPM,1.9,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Lateral parabrachial nucleus,,normalizedRNAExpression,nTPM,3.8,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Lateral parabrachial nucleus,,proteinCodingRNAExpression,pTPM,5.1,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Lateral parabrachial nucleus,,RNAExpression,TPM,3.5,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Lateral thalamic nuclei,,normalizedRNAExpression,nTPM,1.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Lateral thalamic nuclei,,proteinCodingRNAExpression,pTPM,1.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Lateral thalamic nuclei,,RNAExpression,TPM,1.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Lateral vestibular nucleus,,normalizedRNAExpression,nTPM,1.8,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Lateral vestibular nucleus,,proteinCodingRNAExpression,pTPM,2.5,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Lateral vestibular nucleus,,RNAExpression,TPM,1.7,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Lingual gyrus,,normalizedRNAExpression,nTPM,0.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Lingual gyrus,,proteinCodingRNAExpression,pTPM,0.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Lingual gyrus,,RNAExpression,TPM,0.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Locus coeruleus,UBERON:0002148,normalizedRNAExpression,nTPM,2.6,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Locus coeruleus,UBERON:0002148,proteinCodingRNAExpression,pTPM,4.4,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Locus coeruleus,UBERON:0002148,RNAExpression,TPM,3.2,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Mammillary body,,normalizedRNAExpression,nTPM,1.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Mammillary body,,proteinCodingRNAExpression,pTPM,0.9,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Mammillary body,,RNAExpression,TPM,0.7,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Medial dorsal thalamic nucleus,,normalizedRNAExpression,nTPM,1.6,13,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Medial dorsal thalamic nucleus,,proteinCodingRNAExpression,pTPM,1.5,13,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Medial dorsal thalamic nucleus,,RNAExpression,TPM,1.1,13,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Medial geniculate body,,normalizedRNAExpression,nTPM,1.7,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Medial geniculate body,,proteinCodingRNAExpression,pTPM,1.1,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Medial geniculate body,,RNAExpression,TPM,0.8,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Medial olivary nucleus,,normalizedRNAExpression,nTPM,2.7,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Medial olivary nucleus,,proteinCodingRNAExpression,pTPM,3.0,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Medial olivary nucleus,,RNAExpression,TPM,2.1,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Medial parabrachial nucleus,,normalizedRNAExpression,nTPM,2.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Medial parabrachial nucleus,,proteinCodingRNAExpression,pTPM,2.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Medial parabrachial nucleus,,RNAExpression,TPM,1.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Medial periolivary nuclei,,normalizedRNAExpression,nTPM,2.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Medial periolivary nuclei,,proteinCodingRNAExpression,pTPM,3.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Medial periolivary nuclei,,RNAExpression,TPM,2.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Medial vestibular nucleus,,normalizedRNAExpression,nTPM,4.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Medial vestibular nucleus,,proteinCodingRNAExpression,pTPM,4.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Medial vestibular nucleus,,RNAExpression,TPM,3.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Median raphe nucleus,,normalizedRNAExpression,nTPM,3.0,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Median raphe nucleus,,proteinCodingRNAExpression,pTPM,4.5,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Median raphe nucleus,,RNAExpression,TPM,3.1,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Middle cingulate cortex,,normalizedRNAExpression,nTPM,0.9,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Middle cingulate cortex,,proteinCodingRNAExpression,pTPM,1.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Middle cingulate cortex,,RNAExpression,TPM,0.7,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Middle temporal gyrus,,normalizedRNAExpression,nTPM,0.9,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Middle temporal gyrus,,proteinCodingRNAExpression,pTPM,0.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Middle temporal gyrus,,RNAExpression,TPM,0.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Motor facial nucleus,,normalizedRNAExpression,nTPM,1.5,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Motor facial nucleus,,proteinCodingRNAExpression,pTPM,1.6,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Motor facial nucleus,,RNAExpression,TPM,1.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Motor hypoglossal nucleus,,normalizedRNAExpression,nTPM,1.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Motor hypoglossal nucleus,,proteinCodingRNAExpression,pTPM,2.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Motor hypoglossal nucleus,,RNAExpression,TPM,1.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Motor trigeminal nucleus,,normalizedRNAExpression,nTPM,0.9,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Motor trigeminal nucleus,,proteinCodingRNAExpression,pTPM,1.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Motor trigeminal nucleus,,RNAExpression,TPM,0.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Nuclei of the trapezoid body,,normalizedRNAExpression,nTPM,0.7,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Nuclei of the trapezoid body,,proteinCodingRNAExpression,pTPM,0.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Nuclei of the trapezoid body,,RNAExpression,TPM,0.5,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Nucleus accumbens,UBERON:0001882,normalizedRNAExpression,nTPM,1.4,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Nucleus accumbens,UBERON:0001882,proteinCodingRNAExpression,pTPM,1.4,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Nucleus accumbens,UBERON:0001882,RNAExpression,TPM,1.0,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus ambiguus,,normalizedRNAExpression,nTPM,2.0,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus ambiguus,,proteinCodingRNAExpression,pTPM,3.1,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus ambiguus,,RNAExpression,TPM,2.0,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Nucleus basalis of Meynert,,normalizedRNAExpression,nTPM,1.1,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Nucleus basalis of Meynert,,proteinCodingRNAExpression,pTPM,1.1,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Nucleus basalis of Meynert,,RNAExpression,TPM,0.7,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus cuneatus,,normalizedRNAExpression,nTPM,2.9,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus cuneatus,,proteinCodingRNAExpression,pTPM,2.8,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus cuneatus,,RNAExpression,TPM,2.0,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus gracilis,,normalizedRNAExpression,nTPM,2.4,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus gracilis,,proteinCodingRNAExpression,pTPM,0.9,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus gracilis,,RNAExpression,TPM,0.7,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Nucleus of the diagonal band,,normalizedRNAExpression,nTPM,1.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Nucleus of the diagonal band,,proteinCodingRNAExpression,pTPM,2.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Nucleus of the diagonal band,,RNAExpression,TPM,1.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Nucleus raphe magnus,,normalizedRNAExpression,nTPM,0.5,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Nucleus raphe magnus,,proteinCodingRNAExpression,pTPM,0.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Nucleus raphe magnus,,RNAExpression,TPM,0.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus raphe obscurus,,normalizedRNAExpression,nTPM,3.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus raphe obscurus,,proteinCodingRNAExpression,pTPM,3.8,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus raphe obscurus,,RNAExpression,TPM,2.6,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus raphe pallidus,,normalizedRNAExpression,nTPM,2.9,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus raphe pallidus,,proteinCodingRNAExpression,pTPM,4.0,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus raphe pallidus,,RNAExpression,TPM,2.6,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Nucleus reuniens,,normalizedRNAExpression,nTPM,0.3,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Nucleus reuniens,,proteinCodingRNAExpression,pTPM,0.6,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Nucleus reuniens,,RNAExpression,TPM,0.4,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Nucleus rhomboideus,,normalizedRNAExpression,nTPM,1.8,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Nucleus rhomboideus,,proteinCodingRNAExpression,pTPM,2.4,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Nucleus rhomboideus,,RNAExpression,TPM,1.8,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus tractus solitarii,,normalizedRNAExpression,nTPM,4.7,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus tractus solitarii,,proteinCodingRNAExpression,pTPM,5.5,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Nucleus tractus solitarii,,RNAExpression,TPM,3.8,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Occipital cortex,UBERON:0016540,normalizedRNAExpression,nTPM,0.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Occipital cortex,UBERON:0016540,proteinCodingRNAExpression,pTPM,0.7,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Occipital cortex,UBERON:0016540,RNAExpression,TPM,0.5,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Occipital cortex (white matter),,normalizedRNAExpression,nTPM,0.3,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Occipital cortex (white matter),,proteinCodingRNAExpression,pTPM,0.5,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Occipital cortex (white matter),,RNAExpression,TPM,0.3,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Olfactory area,,normalizedRNAExpression,nTPM,0.6,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Olfactory area,,proteinCodingRNAExpression,pTPM,0.9,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Olfactory area,,RNAExpression,TPM,0.6,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Olfactory tubercle,,normalizedRNAExpression,nTPM,0.4,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Olfactory tubercle,,proteinCodingRNAExpression,pTPM,0.3,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Olfactory tubercle,,RNAExpression,TPM,0.2,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Orbitofrontal gyrus, anterior",,normalizedRNAExpression,nTPM,5.9,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Orbitofrontal gyrus, anterior",,proteinCodingRNAExpression,pTPM,4.6,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Orbitofrontal gyrus, anterior",,RNAExpression,TPM,1.8,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Paracentral lobule, anterior",,normalizedRNAExpression,nTPM,0.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Paracentral lobule, anterior",,proteinCodingRNAExpression,pTPM,0.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Paracentral lobule, anterior",,RNAExpression,TPM,0.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Paracentral lobule, posterior",,normalizedRNAExpression,nTPM,0.5,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Paracentral lobule, posterior",,proteinCodingRNAExpression,pTPM,0.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Paracentral lobule, posterior",,RNAExpression,TPM,0.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Parahippocampal cortex,,normalizedRNAExpression,nTPM,0.4,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Parahippocampal cortex,,proteinCodingRNAExpression,pTPM,0.4,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Parahippocampal cortex,,RNAExpression,TPM,0.3,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Parahippocampal cortex (white matter),,normalizedRNAExpression,nTPM,1.0,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Parahippocampal cortex (white matter),,proteinCodingRNAExpression,pTPM,1.1,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Parahippocampal cortex (white matter),,RNAExpression,TPM,0.7,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Paramedian reticular nucleus,,normalizedRNAExpression,nTPM,2.6,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Paramedian reticular nucleus,,proteinCodingRNAExpression,pTPM,3.8,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Paramedian reticular nucleus,,RNAExpression,TPM,2.5,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Paraventricular nucleus,,normalizedRNAExpression,nTPM,3.7,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Paraventricular nucleus,,proteinCodingRNAExpression,pTPM,12.6,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Paraventricular nucleus,,RNAExpression,TPM,9.0,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Parietal operculum,,normalizedRNAExpression,nTPM,0.8,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Parietal operculum,,proteinCodingRNAExpression,pTPM,0.7,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Parietal operculum,,RNAExpression,TPM,0.5,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Parieto-insular cortex,,normalizedRNAExpression,nTPM,0.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Parieto-insular cortex,,proteinCodingRNAExpression,pTPM,0.7,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Parieto-insular cortex,,RNAExpression,TPM,0.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Parieto-occipital transitional area,,normalizedRNAExpression,nTPM,1.5,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Parieto-occipital transitional area,,proteinCodingRNAExpression,pTPM,1.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Parieto-occipital transitional area,,RNAExpression,TPM,1.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Parieto-temporal junction (white matter),,normalizedRNAExpression,nTPM,0.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Parieto-temporal junction (white matter),,proteinCodingRNAExpression,pTPM,0.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Parieto-temporal junction (white matter),,RNAExpression,TPM,0.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Parvicellular reticular nuclei,,normalizedRNAExpression,nTPM,2.9,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Parvicellular reticular nuclei,,proteinCodingRNAExpression,pTPM,4.1,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Parvicellular reticular nuclei,,RNAExpression,TPM,2.8,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Parvicellular reticular nuclei, medullary",,normalizedRNAExpression,nTPM,3.0,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Parvicellular reticular nuclei, medullary",,proteinCodingRNAExpression,pTPM,3.6,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Parvicellular reticular nuclei, medullary",,RNAExpression,TPM,2.6,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Pedunculopontine tegmental nucleus,,normalizedRNAExpression,nTPM,1.3,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Pedunculopontine tegmental nucleus,,proteinCodingRNAExpression,pTPM,1.3,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Pedunculopontine tegmental nucleus,,RNAExpression,TPM,0.9,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,"Periaquaductal grey, anterior",,normalizedRNAExpression,nTPM,0.5,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,"Periaquaductal grey, anterior",,proteinCodingRNAExpression,pTPM,0.5,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,"Periaquaductal grey, anterior",,RNAExpression,TPM,0.4,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,"Periaquaductal grey, dorsal",,normalizedRNAExpression,nTPM,1.8,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,"Periaquaductal grey, dorsal",,proteinCodingRNAExpression,pTPM,2.5,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,"Periaquaductal grey, dorsal",,RNAExpression,TPM,1.7,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,"Periaquaductal grey, lateral",,normalizedRNAExpression,nTPM,1.4,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,"Periaquaductal grey, lateral",,proteinCodingRNAExpression,pTPM,2.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,"Periaquaductal grey, lateral",,RNAExpression,TPM,1.5,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Perirhinal gyrus,,normalizedRNAExpression,nTPM,0.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Perirhinal gyrus,,proteinCodingRNAExpression,pTPM,0.5,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Perirhinal gyrus,,RNAExpression,TPM,0.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Peritrigeminal nucleus,,normalizedRNAExpression,nTPM,3.8,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Peritrigeminal nucleus,,proteinCodingRNAExpression,pTPM,4.9,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Peritrigeminal nucleus,,RNAExpression,TPM,3.4,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Piriform cortex,,normalizedRNAExpression,nTPM,0.2,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Piriform cortex,,proteinCodingRNAExpression,pTPM,0.1,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Piriform cortex,,RNAExpression,TPM,0.0,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Pontine nuclei,,normalizedRNAExpression,nTPM,1.2,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Pontine nuclei,,proteinCodingRNAExpression,pTPM,1.7,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Pontine nuclei,,RNAExpression,TPM,1.2,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Pontine raphe nucleus,,normalizedRNAExpression,nTPM,3.5,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Pontine raphe nucleus,,proteinCodingRNAExpression,pTPM,5.5,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Pontine raphe nucleus,,RNAExpression,TPM,3.7,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Postcentral gyrus,UBERON:0002581,normalizedRNAExpression,nTPM,0.5,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Postcentral gyrus,UBERON:0002581,proteinCodingRNAExpression,pTPM,0.0,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Postcentral gyrus,UBERON:0002581,RNAExpression,TPM,0.0,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Postcentral gyrus, dorsal",,normalizedRNAExpression,nTPM,0.7,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Postcentral gyrus, dorsal",,proteinCodingRNAExpression,pTPM,0.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Postcentral gyrus, dorsal",,RNAExpression,TPM,0.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Postcentral gyrus, middle",,normalizedRNAExpression,nTPM,1.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Postcentral gyrus, middle",,proteinCodingRNAExpression,pTPM,1.5,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Postcentral gyrus, middle",,RNAExpression,TPM,1.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Postcentral gyrus, ventral",,normalizedRNAExpression,nTPM,0.3,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Postcentral gyrus, ventral",,proteinCodingRNAExpression,pTPM,0.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Postcentral gyrus, ventral",,RNAExpression,TPM,0.1,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Posterior cingulate cortex,,normalizedRNAExpression,nTPM,0.7,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Posterior cingulate cortex,,proteinCodingRNAExpression,pTPM,0.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Posterior cingulate cortex,,RNAExpression,TPM,0.1,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Posterior cingulate cortex, dorsal",,normalizedRNAExpression,nTPM,0.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Posterior cingulate cortex, dorsal",,proteinCodingRNAExpression,pTPM,0.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Posterior cingulate cortex, dorsal",,RNAExpression,TPM,0.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Posterior cingulate cortex, ventral",,normalizedRNAExpression,nTPM,0.5,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Posterior cingulate cortex, ventral",,proteinCodingRNAExpression,pTPM,0.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Posterior cingulate cortex, ventral",,RNAExpression,TPM,0.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Posterior insular cortex,,normalizedRNAExpression,nTPM,0.7,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Posterior insular cortex,,proteinCodingRNAExpression,pTPM,0.5,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Posterior insular cortex,,RNAExpression,TPM,0.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Posterior thalamic nucleus,,normalizedRNAExpression,nTPM,0.9,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Posterior thalamic nucleus,,proteinCodingRNAExpression,pTPM,0.8,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Posterior thalamic nucleus,,RNAExpression,TPM,0.6,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Posteroventral cochlear nucleus,,normalizedRNAExpression,nTPM,2.9,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Posteroventral cochlear nucleus,,proteinCodingRNAExpression,pTPM,3.9,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Posteroventral cochlear nucleus,,RNAExpression,TPM,2.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Precentral gyrus,,normalizedRNAExpression,nTPM,0.7,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Precentral gyrus,,proteinCodingRNAExpression,pTPM,0.2,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Precentral gyrus,,RNAExpression,TPM,0.1,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Precentral gyrus, dorsal",,normalizedRNAExpression,nTPM,0.4,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Precentral gyrus, dorsal",,proteinCodingRNAExpression,pTPM,0.3,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Precentral gyrus, dorsal",,RNAExpression,TPM,0.2,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Precentral gyrus, middle",,normalizedRNAExpression,nTPM,1.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Precentral gyrus, middle",,proteinCodingRNAExpression,pTPM,1.7,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Precentral gyrus, middle",,RNAExpression,TPM,1.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Precentral gyrus, ventral",,normalizedRNAExpression,nTPM,2.0,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Precentral gyrus, ventral",,proteinCodingRNAExpression,pTPM,3.1,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Precentral gyrus, ventral",,RNAExpression,TPM,2.2,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Precuneus,,normalizedRNAExpression,nTPM,0.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Precuneus,,proteinCodingRNAExpression,pTPM,0.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Precuneus,,RNAExpression,TPM,0.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Premotor cortex, dorsal",,normalizedRNAExpression,nTPM,0.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Premotor cortex, dorsal",,proteinCodingRNAExpression,pTPM,0.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Premotor cortex, dorsal",,RNAExpression,TPM,0.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Premotor cortex, ventral",,normalizedRNAExpression,nTPM,0.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Premotor cortex, ventral",,proteinCodingRNAExpression,pTPM,0.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Premotor cortex, ventral",,RNAExpression,TPM,0.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Preoptic area,,normalizedRNAExpression,nTPM,0.6,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Preoptic area,,proteinCodingRNAExpression,pTPM,0.5,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Preoptic area,,RNAExpression,TPM,0.3,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Prepositus hypoglossal nucleus,,normalizedRNAExpression,nTPM,6.6,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Prepositus hypoglossal nucleus,,proteinCodingRNAExpression,pTPM,8.3,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Prepositus hypoglossal nucleus,,RNAExpression,TPM,6.0,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Pretectal area,,normalizedRNAExpression,nTPM,1.9,11,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Pretectal area,,proteinCodingRNAExpression,pTPM,2.1,11,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Pretectal area,,RNAExpression,TPM,1.5,11,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Principal sensory trigeminal nucleus,,normalizedRNAExpression,nTPM,1.4,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Principal sensory trigeminal nucleus,,proteinCodingRNAExpression,pTPM,1.5,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Principal sensory trigeminal nucleus,,RNAExpression,TPM,1.1,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Pulvinar,,normalizedRNAExpression,nTPM,3.0,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Pulvinar,,proteinCodingRNAExpression,pTPM,3.0,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Pulvinar,,RNAExpression,TPM,2.2,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Putamen,UBERON:0001874,normalizedRNAExpression,nTPM,0.7,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Putamen,UBERON:0001874,proteinCodingRNAExpression,pTPM,1.3,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Putamen,UBERON:0001874,RNAExpression,TPM,0.9,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Red nucleus,,normalizedRNAExpression,nTPM,2.3,12,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Red nucleus,,proteinCodingRNAExpression,pTPM,3.7,12,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Red nucleus,,RNAExpression,TPM,2.6,12,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Reticular pontine nucleus, caudal",,normalizedRNAExpression,nTPM,1.8,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Reticular pontine nucleus, caudal",,proteinCodingRNAExpression,pTPM,2.1,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Reticular pontine nucleus, caudal",,RNAExpression,TPM,1.5,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Reticular pontine nucleus, oral",,normalizedRNAExpression,nTPM,0.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Reticular pontine nucleus, oral",,proteinCodingRNAExpression,pTPM,0.5,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Reticular pontine nucleus, oral",,RNAExpression,TPM,0.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Reticulotegmental nucleus,,normalizedRNAExpression,nTPM,0.7,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Reticulotegmental nucleus,,proteinCodingRNAExpression,pTPM,0.7,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Reticulotegmental nucleus,,RNAExpression,TPM,0.5,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Retrosplenial cortex,UBERON:0013531,normalizedRNAExpression,nTPM,0.7,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Retrosplenial cortex,UBERON:0013531,proteinCodingRNAExpression,pTPM,0.3,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Retrosplenial cortex,UBERON:0013531,RNAExpression,TPM,0.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Septal nuclei,,normalizedRNAExpression,nTPM,1.3,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Septal nuclei,,proteinCodingRNAExpression,pTPM,2.0,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,Septal nuclei,,RNAExpression,TPM,1.3,7,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,"Somatomor cortex, precentral gyrus (white matter)",,normalizedRNAExpression,nTPM,0.3,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,"Somatomor cortex, precentral gyrus (white matter)",,proteinCodingRNAExpression,pTPM,0.0,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,"Somatomor cortex, precentral gyrus (white matter)",,RNAExpression,TPM,0.0,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,"Somatosensory cortex, postcentral gyrus, ventral (white matter)",,normalizedRNAExpression,nTPM,2.1,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,"Somatosensory cortex, postcentral gyrus, ventral (white matter)",,proteinCodingRNAExpression,pTPM,1.1,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,"Somatosensory cortex, postcentral gyrus, ventral (white matter)",,RNAExpression,TPM,0.8,1,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Spinal trigeminal nucleus, caudal",,normalizedRNAExpression,nTPM,1.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Spinal trigeminal nucleus, caudal",,proteinCodingRNAExpression,pTPM,1.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Spinal trigeminal nucleus, caudal",,RNAExpression,TPM,0.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Spinal trigeminal nucleus, interpolar",,normalizedRNAExpression,nTPM,3.7,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Spinal trigeminal nucleus, interpolar",,proteinCodingRNAExpression,pTPM,3.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Spinal trigeminal nucleus, interpolar",,RNAExpression,TPM,2.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Spinal trigeminal nucleus, oral",,normalizedRNAExpression,nTPM,1.1,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Spinal trigeminal nucleus, oral",,proteinCodingRNAExpression,pTPM,1.8,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Spinal trigeminal nucleus, oral",,RNAExpression,TPM,1.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Spinal vestibular nucleus,,normalizedRNAExpression,nTPM,3.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Spinal vestibular nucleus,,proteinCodingRNAExpression,pTPM,3.8,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Spinal vestibular nucleus,,RNAExpression,TPM,2.7,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,"Stria terminalis, bed nucleus",,normalizedRNAExpression,nTPM,0.4,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,"Stria terminalis, bed nucleus",,proteinCodingRNAExpression,pTPM,0.7,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,BG,"Stria terminalis, bed nucleus",,RNAExpression,TPM,0.5,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Subcentral gyrus, S2",,normalizedRNAExpression,nTPM,0.7,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Subcentral gyrus, S2",,proteinCodingRNAExpression,pTPM,0.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Subcentral gyrus, S2",,RNAExpression,TPM,0.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Subcoeruleus area,,normalizedRNAExpression,nTPM,0.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Subcoeruleus area,,proteinCodingRNAExpression,pTPM,0.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Subcoeruleus area,,RNAExpression,TPM,0.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Subiculum,,normalizedRNAExpression,nTPM,0.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Subiculum,,proteinCodingRNAExpression,pTPM,0.4,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HPF,Subiculum,,RNAExpression,TPM,0.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Substantia nigra,UBERON:0002038,normalizedRNAExpression,nTPM,6.7,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Substantia nigra,UBERON:0002038,proteinCodingRNAExpression,pTPM,8.6,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Substantia nigra,UBERON:0002038,RNAExpression,TPM,6.4,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Subthalamic nucleus,,normalizedRNAExpression,nTPM,1.8,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Subthalamic nucleus,,proteinCodingRNAExpression,pTPM,2.9,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Subthalamic nucleus,,RNAExpression,TPM,2.0,8,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Superior colliculus,,normalizedRNAExpression,nTPM,1.1,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Superior colliculus,,proteinCodingRNAExpression,pTPM,0.9,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Superior colliculus,,RNAExpression,TPM,0.6,10,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Superior olive,,normalizedRNAExpression,nTPM,0.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Superior olive,,proteinCodingRNAExpression,pTPM,0.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Superior olive,,RNAExpression,TPM,0.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Superior parietal lobule,,normalizedRNAExpression,nTPM,1.5,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Superior parietal lobule,,proteinCodingRNAExpression,pTPM,1.5,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Superior parietal lobule,,RNAExpression,TPM,1.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Superior temporal gyrus,,normalizedRNAExpression,nTPM,0.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Superior temporal gyrus,,proteinCodingRNAExpression,pTPM,0.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Superior temporal gyrus,,RNAExpression,TPM,0.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Superior vestibular nucleus,,normalizedRNAExpression,nTPM,5.1,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Superior vestibular nucleus,,proteinCodingRNAExpression,pTPM,5.5,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Superior vestibular nucleus,,RNAExpression,TPM,3.7,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Supplementary motor cortex,,normalizedRNAExpression,nTPM,0.8,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Supplementary motor cortex,,proteinCodingRNAExpression,pTPM,0.2,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Supplementary motor cortex,,RNAExpression,TPM,0.2,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Supramarginal gyrus,,normalizedRNAExpression,nTPM,0.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Supramarginal gyrus,,proteinCodingRNAExpression,pTPM,0.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Supramarginal gyrus,,RNAExpression,TPM,0.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Supraoptic nucleus,,normalizedRNAExpression,nTPM,3.0,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Supraoptic nucleus,,proteinCodingRNAExpression,pTPM,4.7,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Supraoptic nucleus,,RNAExpression,TPM,3.5,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Temporal pole,,normalizedRNAExpression,nTPM,0.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Temporal pole,,proteinCodingRNAExpression,pTPM,0.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Temporal pole,,RNAExpression,TPM,0.4,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Temporal white matter,,normalizedRNAExpression,nTPM,0.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Temporal white matter,,proteinCodingRNAExpression,pTPM,0.1,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,WM,Temporal white matter,,RNAExpression,TPM,0.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Temporo-insular cortex, parainsular gyrus",,normalizedRNAExpression,nTPM,0.6,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Temporo-insular cortex, parainsular gyrus",,proteinCodingRNAExpression,pTPM,0.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Temporo-insular cortex, parainsular gyrus",,RNAExpression,TPM,0.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Temporo-occipital transitional zone,,normalizedRNAExpression,nTPM,0.2,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Temporo-occipital transitional zone,,proteinCodingRNAExpression,pTPM,0.4,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,Temporo-occipital transitional zone,,RNAExpression,TPM,0.3,3,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Transversal temporal gyrus, anterior",,normalizedRNAExpression,nTPM,0.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Transversal temporal gyrus, anterior",,proteinCodingRNAExpression,pTPM,0.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Transversal temporal gyrus, anterior",,RNAExpression,TPM,0.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Transversal temporal gyrus, posterior",,normalizedRNAExpression,nTPM,1.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Transversal temporal gyrus, posterior",,proteinCodingRNAExpression,pTPM,1.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CTX,"Transversal temporal gyrus, posterior",,RNAExpression,TPM,0.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Ventral medullary reticular nucleus,,normalizedRNAExpression,nTPM,2.0,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Ventral medullary reticular nucleus,,proteinCodingRNAExpression,pTPM,2.8,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,Ventral medullary reticular nucleus,,RNAExpression,TPM,1.8,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Ventral periolivary nuclei,,normalizedRNAExpression,nTPM,1.1,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Ventral periolivary nuclei,,proteinCodingRNAExpression,pTPM,1.3,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,Ventral periolivary nuclei,,RNAExpression,TPM,0.9,4,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Ventral posterolateral thalamic nucleus,,normalizedRNAExpression,nTPM,2.5,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Ventral posterolateral thalamic nucleus,,proteinCodingRNAExpression,pTPM,3.1,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Ventral posterolateral thalamic nucleus,,RNAExpression,TPM,2.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Ventral posteromedial thalamic nucleus,,normalizedRNAExpression,nTPM,2.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Ventral posteromedial thalamic nucleus,,proteinCodingRNAExpression,pTPM,2.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Ventral posteromedial thalamic nucleus,,RNAExpression,TPM,1.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Ventral tegmental area,,normalizedRNAExpression,nTPM,4.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Ventral tegmental area,,proteinCodingRNAExpression,pTPM,5.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,MB,Ventral tegmental area,,RNAExpression,TPM,3.8,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Ventral thalamic nuclei,,normalizedRNAExpression,nTPM,2.0,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Ventral thalamic nuclei,,proteinCodingRNAExpression,pTPM,2.8,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Ventral thalamic nuclei,,RNAExpression,TPM,2.0,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Ventrolateral medulla, A1-C1 cell groups",,normalizedRNAExpression,nTPM,2.2,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Ventrolateral medulla, A1-C1 cell groups",,proteinCodingRNAExpression,pTPM,3.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,M,"Ventrolateral medulla, A1-C1 cell groups",,RNAExpression,TPM,2.0,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Ventrolateral tegmental area, A5 NE cell group",,normalizedRNAExpression,nTPM,1.3,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Ventrolateral tegmental area, A5 NE cell group",,proteinCodingRNAExpression,pTPM,1.2,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,P,"Ventrolateral tegmental area, A5 NE cell group",,RNAExpression,TPM,0.9,6,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Ventromedial nucleus,,normalizedRNAExpression,nTPM,1.1,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Ventromedial nucleus,,proteinCodingRNAExpression,pTPM,1.3,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,HY,Ventromedial nucleus,,RNAExpression,TPM,0.9,2,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CB,Vermis,,normalizedRNAExpression,nTPM,0.8,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CB,Vermis,,proteinCodingRNAExpression,pTPM,1.3,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,CB,Vermis,,RNAExpression,TPM,0.7,9,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Zona incerta,,normalizedRNAExpression,nTPM,1.3,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Zona incerta,,proteinCodingRNAExpression,pTPM,2.6,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrain,HPA,RNAseq,TH,Zona incerta,,RNAExpression,TPM,1.8,5,25,2026-11-09T16:33:12Z,human,tissue@organ
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,normalizedRNAExpression,nTPM,2.9,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,proteinCodingRNAExpression,pTPM,3.0,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,RNAExpression,TPM,2.2,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,BG,Basal ganglia,"UBERON:0001873,UBERON:0001874,UBERON:0001875,UBERON:0001882",normalizedRNAExpression,nTPM,1.6,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,BG,Basal ganglia,"UBERON:0001873,UBERON:0001874,UBERON:0001875,UBERON:0001882",proteinCodingRNAExpression,pTPM,4.4,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,BG,Basal ganglia,"UBERON:0001873,UBERON:0001874,UBERON:0001875,UBERON:0001882",RNAExpression,TPM,3.1,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,normalizedRNAExpression,nTPM,5.5,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,proteinCodingRNAExpression,pTPM,7.6,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,RNAExpression,TPM,5.6,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,CTX,Cerebral cortex,UBERON:0000956,normalizedRNAExpression,nTPM,5.9,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,CTX,Cerebral cortex,UBERON:0000956,proteinCodingRNAExpression,pTPM,4.6,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,CTX,Cerebral cortex,UBERON:0000956,RNAExpression,TPM,2.2,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,CP,Choroid plexus,UBERON:0001886,normalizedRNAExpression,nTPM,16.1,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,CP,Choroid plexus,UBERON:0001886,proteinCodingRNAExpression,pTPM,12.0,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,CP,Choroid plexus,UBERON:0001886,RNAExpression,TPM,9.3,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,HPF,Hippocampal formation,UBERON:0002421,normalizedRNAExpression,nTPM,0.6,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,HPF,Hippocampal formation,UBERON:0002421,proteinCodingRNAExpression,pTPM,0.6,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,HPF,Hippocampal formation,UBERON:0002421,RNAExpression,TPM,0.4,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,normalizedRNAExpression,nTPM,3.7,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,proteinCodingRNAExpression,pTPM,12.6,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,RNAExpression,TPM,9.0,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,M,Medulla oblongata,UBERON:0001896,normalizedRNAExpression,nTPM,6.6,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,M,Medulla oblongata,UBERON:0001896,proteinCodingRNAExpression,pTPM,8.3,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,M,Medulla oblongata,UBERON:0001896,RNAExpression,TPM,6.0,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,MB,Midbrain,UBERON:0001891,normalizedRNAExpression,nTPM,6.7,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,MB,Midbrain,UBERON:0001891,proteinCodingRNAExpression,pTPM,8.6,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,MB,Midbrain,UBERON:0001891,RNAExpression,TPM,6.4,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,P,Pons,UBERON:0000988,normalizedRNAExpression,nTPM,3.8,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,P,Pons,UBERON:0000988,proteinCodingRNAExpression,pTPM,5.5,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,P,Pons,UBERON:0000988,RNAExpression,TPM,3.7,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,SC,Spinal cord,UBERON:0002240,normalizedRNAExpression,nTPM,4.6,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,SC,Spinal cord,UBERON:0002240,proteinCodingRNAExpression,pTPM,7.1,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,SC,Spinal cord,UBERON:0002240,RNAExpression,TPM,4.9,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,TH,Thalamus,UBERON:0001897,normalizedRNAExpression,nTPM,3.8,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,TH,Thalamus,UBERON:0001897,proteinCodingRNAExpression,pTPM,5.6,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,TH,Thalamus,UBERON:0001897,RNAExpression,TPM,3.8,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,WM,White matter,,normalizedRNAExpression,nTPM,2.1,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,WM,White matter,,proteinCodingRNAExpression,pTPM,5.5,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,humanBrainRegional,HPA,RNAseq,WM,White matter,,RNAExpression,TPM,3.6,0,25,2026-11-09T16:33:12Z,human,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,normalizedRNAExpression,nTPM,34.8,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,proteinCodingRNAExpression,pTPM,35.8,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,RNAExpression,TPM,32.0,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,BG,Basal ganglia,"UBERON:0001873,UBERON:0001874,UBERON:0001875,UBERON:0001882",normalizedRNAExpression,nTPM,43.3,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,BG,Basal ganglia,"UBERON:0001873,UBERON:0001874,UBERON:0001875,UBERON:0001882",proteinCodingRNAExpression,pTPM,45.0,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,BG,Basal ganglia,"UBERON:0001873,UBERON:0001874,UBERON:0001875,UBERON:0001882",RNAExpression,TPM,40.8,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,normalizedRNAExpression,nTPM,49.1,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,proteinCodingRNAExpression,pTPM,55.2,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,RNAExpression,TPM,48.3,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,CTX,Cerebral cortex,UBERON:0000956,normalizedRNAExpression,nTPM,37.5,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,CTX,Cerebral cortex,UBERON:0000956,proteinCodingRNAExpression,pTPM,35.4,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,CTX,Cerebral cortex,UBERON:0000956,RNAExpression,TPM,31.7,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,HPF,Hippocampal formation,UBERON:0002421,normalizedRNAExpression,nTPM,37.1,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,HPF,Hippocampal formation,UBERON:0002421,proteinCodingRNAExpression,pTPM,40.7,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,HPF,Hippocampal formation,UBERON:0002421,RNAExpression,TPM,36.4,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,normalizedRNAExpression,nTPM,37.8,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,proteinCodingRNAExpression,pTPM,44.2,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,RNAExpression,TPM,39.9,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,MB,Midbrain,UBERON:0001891,normalizedRNAExpression,nTPM,40.0,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,MB,Midbrain,UBERON:0001891,proteinCodingRNAExpression,pTPM,47.9,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,MB,Midbrain,UBERON:0001891,RNAExpression,TPM,42.8,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,OLF,Olfactory bulb,UBERON:0003112,normalizedRNAExpression,nTPM,45.5,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,OLF,Olfactory bulb,UBERON:0003112,proteinCodingRNAExpression,pTPM,55.9,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,OLF,Olfactory bulb,UBERON:0003112,RNAExpression,TPM,50.0,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,PM,Pons and medulla,"UBERON:0000988,UBERON:0001896",normalizedRNAExpression,nTPM,46.8,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,PM,Pons and medulla,"UBERON:0000988,UBERON:0001896",proteinCodingRNAExpression,pTPM,49.1,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,PM,Pons and medulla,"UBERON:0000988,UBERON:0001896",RNAExpression,TPM,43.6,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,TH,Thalamus,UBERON:0001897,normalizedRNAExpression,nTPM,40.6,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,TH,Thalamus,UBERON:0001897,proteinCodingRNAExpression,pTPM,44.3,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,TH,Thalamus,UBERON:0001897,RNAExpression,TPM,39.6,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,WM,White matter,,normalizedRNAExpression,nTPM,50.5,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,WM,White matter,,proteinCodingRNAExpression,pTPM,38.5,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrainRegional,HPA,RNAseq,WM,White matter,,RNAExpression,TPM,34.6,0,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,normalizedRNAExpression,nTPM,34.8,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,proteinCodingRNAExpression,pTPM,35.8,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,RNAExpression,TPM,32.0,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,BG,Caudate putamen,UBERON:0005383,normalizedRNAExpression,nTPM,40.4,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,BG,Caudate putamen,UBERON:0005383,proteinCodingRNAExpression,pTPM,36.3,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,BG,Caudate putamen,UBERON:0005383,RNAExpression,TPM,32.7,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,normalizedRNAExpression,nTPM,49.1,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,proteinCodingRNAExpression,pTPM,55.2,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,RNAExpression,TPM,48.3,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CC,Corpus callosum,UBERON:0002336,normalizedRNAExpression,nTPM,50.5,3,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CC,Corpus callosum,UBERON:0002336,proteinCodingRNAExpression,pTPM,38.5,3,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CC,Corpus callosum,UBERON:0002336,RNAExpression,TPM,34.6,3,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,HPF,Entorhinal cortex,UBERON:0002728,normalizedRNAExpression,nTPM,34.5,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,HPF,Entorhinal cortex,UBERON:0002728,proteinCodingRNAExpression,pTPM,37.8,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,HPF,Entorhinal cortex,UBERON:0002728,RNAExpression,TPM,33.9,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CTX,Frontal cortex,UBERON:0001870,normalizedRNAExpression,nTPM,35.6,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CTX,Frontal cortex,UBERON:0001870,proteinCodingRNAExpression,pTPM,35.1,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CTX,Frontal cortex,UBERON:0001870,RNAExpression,TPM,31.6,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,HPF,Hippocampal formation,UBERON:0002421,normalizedRNAExpression,nTPM,37.1,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,HPF,Hippocampal formation,UBERON:0002421,proteinCodingRNAExpression,pTPM,40.7,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,HPF,Hippocampal formation,UBERON:0002421,RNAExpression,TPM,36.4,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,normalizedRNAExpression,nTPM,37.8,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,proteinCodingRNAExpression,pTPM,44.2,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,RNAExpression,TPM,39.9,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,MB,Midbrain,UBERON:0001891,normalizedRNAExpression,nTPM,40.0,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,MB,Midbrain,UBERON:0001891,proteinCodingRNAExpression,pTPM,47.9,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,MB,Midbrain,UBERON:0001891,RNAExpression,TPM,42.8,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CTX,Occipital cortex,UBERON:0016540,normalizedRNAExpression,nTPM,34.5,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CTX,Occipital cortex,UBERON:0016540,proteinCodingRNAExpression,pTPM,34.1,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CTX,Occipital cortex,UBERON:0016540,RNAExpression,TPM,30.6,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,OLF,Olfactory bulb,UBERON:0003112,normalizedRNAExpression,nTPM,45.5,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,OLF,Olfactory bulb,UBERON:0003112,proteinCodingRNAExpression,pTPM,55.9,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,OLF,Olfactory bulb,UBERON:0003112,RNAExpression,TPM,50.0,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,PM,Pons and medulla,"UBERON:0000988,UBERON:0001896",normalizedRNAExpression,nTPM,46.8,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,PM,Pons and medulla,"UBERON:0000988,UBERON:0001896",proteinCodingRNAExpression,pTPM,49.1,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,PM,Pons and medulla,"UBERON:0000988,UBERON:0001896",RNAExpression,TPM,43.6,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CTX,Retrosplenial and cingulate cortex,"UBERON:0003027,UBERON:0013531",normalizedRNAExpression,nTPM,32.9,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CTX,Retrosplenial and cingulate cortex,"UBERON:0003027,UBERON:0013531",proteinCodingRNAExpression,pTPM,33.6,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CTX,Retrosplenial and cingulate cortex,"UBERON:0003027,UBERON:0013531",RNAExpression,TPM,30.4,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,BG,Septum,UBERON:0004714,normalizedRNAExpression,nTPM,43.3,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,BG,Septum,UBERON:0004714,proteinCodingRNAExpression,pTPM,45.0,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,BG,Septum,UBERON:0004714,RNAExpression,TPM,40.8,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CTX,Somatosensory cortex,UBERON:0008930,normalizedRNAExpression,nTPM,37.5,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CTX,Somatosensory cortex,UBERON:0008930,proteinCodingRNAExpression,pTPM,35.4,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,CTX,Somatosensory cortex,UBERON:0008930,RNAExpression,TPM,31.7,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,TH,Thalamus,UBERON:0001897,normalizedRNAExpression,nTPM,40.6,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,TH,Thalamus,UBERON:0001897,proteinCodingRNAExpression,pTPM,44.3,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,TH,Thalamus,UBERON:0001897,RNAExpression,TPM,39.6,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,BG,Ventral forebrain,UBERON:0002778,normalizedRNAExpression,nTPM,37.8,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,BG,Ventral forebrain,UBERON:0002778,proteinCodingRNAExpression,pTPM,38.0,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,mouseBrain,HPA,RNAseq,BG,Ventral forebrain,UBERON:0002778,RNAExpression,TPM,34.3,4,25,2026-11-09T16:33:12Z,mouse,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,normalizedRNAExpression,nTPM,18.2,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,proteinCodingRNAExpression,pTPM,18.8,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,RNAExpression,TPM,18.7,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,BG,Basal ganglia,"UBERON:0001873,UBERON:0001874,UBERON:0001875,UBERON:0001882",normalizedRNAExpression,nTPM,27.4,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,BG,Basal ganglia,"UBERON:0001873,UBERON:0001874,UBERON:0001875,UBERON:0001882",proteinCodingRNAExpression,pTPM,25.8,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,BG,Basal ganglia,"UBERON:0001873,UBERON:0001874,UBERON:0001875,UBERON:0001882",RNAExpression,TPM,25.7,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,normalizedRNAExpression,nTPM,21.2,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,proteinCodingRNAExpression,pTPM,31.0,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,RNAExpression,TPM,30.8,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,CTX,Cerebral cortex,UBERON:0000956,normalizedRNAExpression,nTPM,19.7,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,CTX,Cerebral cortex,UBERON:0000956,proteinCodingRNAExpression,pTPM,17.4,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,CTX,Cerebral cortex,UBERON:0000956,RNAExpression,TPM,17.4,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,HPF,Hippocampal formation,UBERON:0002421,normalizedRNAExpression,nTPM,20.2,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,HPF,Hippocampal formation,UBERON:0002421,proteinCodingRNAExpression,pTPM,20.4,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,HPF,Hippocampal formation,UBERON:0002421,RNAExpression,TPM,20.4,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,normalizedRNAExpression,nTPM,22.2,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,proteinCodingRNAExpression,pTPM,25.4,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,RNAExpression,TPM,25.3,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,M,Medulla oblongata,UBERON:0001896,normalizedRNAExpression,nTPM,32.5,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,M,Medulla oblongata,UBERON:0001896,proteinCodingRNAExpression,pTPM,31.7,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,M,Medulla oblongata,UBERON:0001896,RNAExpression,TPM,31.6,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,MB,Midbrain,UBERON:0001891,normalizedRNAExpression,nTPM,33.0,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,MB,Midbrain,UBERON:0001891,proteinCodingRNAExpression,pTPM,34.3,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,MB,Midbrain,UBERON:0001891,RNAExpression,TPM,34.2,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,OLF,Olfactory bulb,UBERON:0003112,normalizedRNAExpression,nTPM,16.8,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,OLF,Olfactory bulb,UBERON:0003112,proteinCodingRNAExpression,pTPM,26.6,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,OLF,Olfactory bulb,UBERON:0003112,RNAExpression,TPM,26.4,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,P,Pons,UBERON:0000988,normalizedRNAExpression,nTPM,32.9,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,P,Pons,UBERON:0000988,proteinCodingRNAExpression,pTPM,29.1,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,P,Pons,UBERON:0000988,RNAExpression,TPM,29.1,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,SC,Spinal cord,UBERON:0002240,normalizedRNAExpression,nTPM,44.5,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,SC,Spinal cord,UBERON:0002240,proteinCodingRNAExpression,pTPM,39.7,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,SC,Spinal cord,UBERON:0002240,RNAExpression,TPM,39.7,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,TH,Thalamus,UBERON:0001897,normalizedRNAExpression,nTPM,35.0,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,TH,Thalamus,UBERON:0001897,proteinCodingRNAExpression,pTPM,31.9,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,TH,Thalamus,UBERON:0001897,RNAExpression,TPM,31.8,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,WM,White matter,,normalizedRNAExpression,nTPM,24.9,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,WM,White matter,,proteinCodingRNAExpression,pTPM,28.1,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrainRegional,HPA,RNAseq,WM,White matter,,RNAExpression,TPM,28.0,0,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,normalizedRNAExpression,nTPM,18.2,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,proteinCodingRNAExpression,pTPM,18.8,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,AMY,Amygdala,UBERON:0001876,RNAExpression,TPM,18.7,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,BG,Caudate,UBERON:0001873,normalizedRNAExpression,nTPM,19.1,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,BG,Caudate,UBERON:0001873,proteinCodingRNAExpression,pTPM,18.0,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,BG,Caudate,UBERON:0001873,RNAExpression,TPM,18.0,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,normalizedRNAExpression,nTPM,21.2,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,proteinCodingRNAExpression,pTPM,31.0,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CB,Cerebellum,UBERON:0002037,RNAExpression,TPM,30.8,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Cingulate cortex,UBERON:0003027,normalizedRNAExpression,nTPM,16.0,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Cingulate cortex,UBERON:0003027,proteinCodingRNAExpression,pTPM,16.7,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Cingulate cortex,UBERON:0003027,RNAExpression,TPM,16.6,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CC,Corpus callosum,UBERON:0002336,normalizedRNAExpression,nTPM,24.9,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CC,Corpus callosum,UBERON:0002336,proteinCodingRNAExpression,pTPM,28.1,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CC,Corpus callosum,UBERON:0002336,RNAExpression,TPM,28.0,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HPF,Dorsal hippocampus,,normalizedRNAExpression,nTPM,20.2,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HPF,Dorsal hippocampus,,proteinCodingRNAExpression,pTPM,20.4,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HPF,Dorsal hippocampus,,RNAExpression,TPM,20.4,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,SC,Dorsal spinal cord,,normalizedRNAExpression,nTPM,32.8,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,SC,Dorsal spinal cord,,proteinCodingRNAExpression,pTPM,34.0,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,SC,Dorsal spinal cord,,RNAExpression,TPM,33.9,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HPF,Entorhinal cortex,UBERON:0002728,normalizedRNAExpression,nTPM,17.6,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HPF,Entorhinal cortex,UBERON:0002728,proteinCodingRNAExpression,pTPM,17.3,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HPF,Entorhinal cortex,UBERON:0002728,RNAExpression,TPM,17.2,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,normalizedRNAExpression,nTPM,22.2,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,proteinCodingRNAExpression,pTPM,25.4,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HY,Hypothalamus,UBERON:0001898,RNAExpression,TPM,25.3,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Insular cortex,UBERON:0034891,normalizedRNAExpression,nTPM,13.7,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Insular cortex,UBERON:0034891,proteinCodingRNAExpression,pTPM,13.3,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Insular cortex,UBERON:0034891,RNAExpression,TPM,13.3,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,PM,Medulla oblongata,UBERON:0001896,normalizedRNAExpression,nTPM,32.5,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,PM,Medulla oblongata,UBERON:0001896,proteinCodingRNAExpression,pTPM,31.7,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,PM,Medulla oblongata,UBERON:0001896,RNAExpression,TPM,31.6,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,MB,Midbrain,UBERON:0001891,normalizedRNAExpression,nTPM,32.5,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,MB,Midbrain,UBERON:0001891,proteinCodingRNAExpression,pTPM,30.5,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,MB,Midbrain,UBERON:0001891,RNAExpression,TPM,30.4,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Motor cortex,UBERON:0001384,normalizedRNAExpression,nTPM,19.7,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Motor cortex,UBERON:0001384,proteinCodingRNAExpression,pTPM,16.4,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Motor cortex,UBERON:0001384,RNAExpression,TPM,16.4,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Occipital cortex,UBERON:0016540,normalizedRNAExpression,nTPM,18.0,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Occipital cortex,UBERON:0016540,proteinCodingRNAExpression,pTPM,15.9,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Occipital cortex,UBERON:0016540,RNAExpression,TPM,15.9,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,OLF,Olfactory bulb,UBERON:0003112,normalizedRNAExpression,nTPM,16.8,5,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,OLF,Olfactory bulb,UBERON:0003112,proteinCodingRNAExpression,pTPM,26.6,5,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,OLF,Olfactory bulb,UBERON:0003112,RNAExpression,TPM,26.4,5,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,MB,Periaqueductal gray,UBERON:0003040,normalizedRNAExpression,nTPM,26.3,3,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,MB,Periaqueductal gray,UBERON:0003040,proteinCodingRNAExpression,pTPM,31.7,3,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,MB,Periaqueductal gray,UBERON:0003040,RNAExpression,TPM,31.6,3,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,PM,Pons,UBERON:0000988,normalizedRNAExpression,nTPM,32.9,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,PM,Pons,UBERON:0000988,proteinCodingRNAExpression,pTPM,29.1,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,PM,Pons,UBERON:0000988,RNAExpression,TPM,29.1,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Prefrontal cortex,UBERON:0000451,normalizedRNAExpression,nTPM,17.5,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Prefrontal cortex,UBERON:0000451,proteinCodingRNAExpression,pTPM,14.8,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Prefrontal cortex,UBERON:0000451,RNAExpression,TPM,14.7,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,BG,Putamen,UBERON:0001874,normalizedRNAExpression,nTPM,27.4,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,BG,Putamen,UBERON:0001874,proteinCodingRNAExpression,pTPM,20.2,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,BG,Putamen,UBERON:0001874,RNAExpression,TPM,20.1,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Retrosplenial cortex,UBERON:0013531,normalizedRNAExpression,nTPM,16.9,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Retrosplenial cortex,UBERON:0013531,proteinCodingRNAExpression,pTPM,17.4,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Retrosplenial cortex,UBERON:0013531,RNAExpression,TPM,17.4,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,BG,Septum,UBERON:0004714,normalizedRNAExpression,nTPM,23.2,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,BG,Septum,UBERON:0004714,proteinCodingRNAExpression,pTPM,25.8,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,BG,Septum,UBERON:0004714,RNAExpression,TPM,25.7,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Somatosensory cortex,UBERON:0008930,normalizedRNAExpression,nTPM,17.2,3,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Somatosensory cortex,UBERON:0008930,proteinCodingRNAExpression,pTPM,16.8,3,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Somatosensory cortex,UBERON:0008930,RNAExpression,TPM,16.7,3,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HPF,Subiculum,,normalizedRNAExpression,nTPM,18.9,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HPF,Subiculum,,proteinCodingRNAExpression,pTPM,20.0,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HPF,Subiculum,,RNAExpression,TPM,19.9,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,MB,Substantia nigra,UBERON:0002038,normalizedRNAExpression,nTPM,33.0,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,MB,Substantia nigra,UBERON:0002038,proteinCodingRNAExpression,pTPM,34.3,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,MB,Substantia nigra,UBERON:0002038,RNAExpression,TPM,34.2,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,MB,Superior colliculi,UBERON:0001945,normalizedRNAExpression,nTPM,35.6,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,MB,Superior colliculi,UBERON:0001945,proteinCodingRNAExpression,pTPM,37.9,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,MB,Superior colliculi,UBERON:0001945,RNAExpression,TPM,37.8,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Temporal cortex,UBERON:0016538,normalizedRNAExpression,nTPM,16.7,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Temporal cortex,UBERON:0016538,proteinCodingRNAExpression,pTPM,17.0,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,CTX,Temporal cortex,UBERON:0016538,RNAExpression,TPM,16.9,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,TH,Thalamus,UBERON:0001897,normalizedRNAExpression,nTPM,35.0,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,TH,Thalamus,UBERON:0001897,proteinCodingRNAExpression,pTPM,31.9,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,TH,Thalamus,UBERON:0001897,RNAExpression,TPM,31.8,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HPF,Ventral hippocampus,,normalizedRNAExpression,nTPM,17.6,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HPF,Ventral hippocampus,,proteinCodingRNAExpression,pTPM,19.4,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,HPF,Ventral hippocampus,,RNAExpression,TPM,19.3,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,BG,Ventral pallidum,UBERON:0002778,normalizedRNAExpression,nTPM,22.7,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,BG,Ventral pallidum,UBERON:0002778,proteinCodingRNAExpression,pTPM,22.0,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,BG,Ventral pallidum,UBERON:0002778,RNAExpression,TPM,21.9,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,SC,Ventral spinal cord,,normalizedRNAExpression,nTPM,44.5,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,SC,Ventral spinal cord,,proteinCodingRNAExpression,pTPM,39.7,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,pigBrain,HPA,RNAseq,SC,Ventral spinal cord,,RNAExpression,TPM,39.7,4,25,2026-11-09T16:33:12Z,pig,tissue@region
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Granulocytes,Basophil,,normalizedRNAExpression,nTPM,15.6,4,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Granulocytes,Basophil,,proteinCodingRNAExpression,pTPM,14.2,4,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Granulocytes,Basophil,,RNAExpression,TPM,11.4,4,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Monocytes,Classical monocyte,,normalizedRNAExpression,nTPM,14.3,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Monocytes,Classical monocyte,,proteinCodingRNAExpression,pTPM,13.2,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Monocytes,Classical monocyte,,RNAExpression,TPM,11.0,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Granulocytes,Eosinophil,,normalizedRNAExpression,nTPM,19.4,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Granulocytes,Eosinophil,,proteinCodingRNAExpression,pTPM,19.3,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Granulocytes,Eosinophil,,RNAExpression,TPM,15.5,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,GdT-cell,,normalizedRNAExpression,nTPM,17.2,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,GdT-cell,,proteinCodingRNAExpression,pTPM,22.6,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,GdT-cell,,RNAExpression,TPM,18.5,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Monocytes,Intermediate monocyte,,normalizedRNAExpression,nTPM,20.9,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Monocytes,Intermediate monocyte,,proteinCodingRNAExpression,pTPM,20.8,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Monocytes,Intermediate monocyte,,RNAExpression,TPM,17.2,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,MAIT T-cell,,normalizedRNAExpression,nTPM,27.3,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,MAIT T-cell,,proteinCodingRNAExpression,pTPM,32.3,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,MAIT T-cell,,RNAExpression,TPM,26.5,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,B-cells,Memory B-cell,,normalizedRNAExpression,nTPM,40.9,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,B-cells,Memory B-cell,,proteinCodingRNAExpression,pTPM,34.2,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,B-cells,Memory B-cell,,RNAExpression,TPM,28.0,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,Memory CD4 T-cell,,normalizedRNAExpression,nTPM,17.9,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,Memory CD4 T-cell,,proteinCodingRNAExpression,pTPM,20.2,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,Memory CD4 T-cell,,RNAExpression,TPM,16.6,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,Memory CD8 T-cell,,normalizedRNAExpression,nTPM,21.5,5,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,Memory CD8 T-cell,,proteinCodingRNAExpression,pTPM,26.3,5,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,Memory CD8 T-cell,,RNAExpression,TPM,21.5,5,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Dendritic cells,Myeloid DC,,normalizedRNAExpression,nTPM,21.5,5,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Dendritic cells,Myeloid DC,,proteinCodingRNAExpression,pTPM,22.3,5,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Dendritic cells,Myeloid DC,,RNAExpression,TPM,18.3,5,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,B-cells,Naive B-cell,,normalizedRNAExpression,nTPM,24.7,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,B-cells,Naive B-cell,,proteinCodingRNAExpression,pTPM,19.9,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,B-cells,Naive B-cell,,RNAExpression,TPM,16.1,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,Naive CD4 T-cell,,normalizedRNAExpression,nTPM,20.4,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,Naive CD4 T-cell,,proteinCodingRNAExpression,pTPM,21.8,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,Naive CD4 T-cell,,RNAExpression,TPM,17.9,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,Naive CD8 T-cell,,normalizedRNAExpression,nTPM,23.8,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,Naive CD8 T-cell,,proteinCodingRNAExpression,pTPM,27.2,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,Naive CD8 T-cell,,RNAExpression,TPM,22.3,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Granulocytes,Neutrophil,,normalizedRNAExpression,nTPM,0.5,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Granulocytes,Neutrophil,,proteinCodingRNAExpression,pTPM,0.5,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Granulocytes,Neutrophil,,RNAExpression,TPM,0.4,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,NK-cells,NK-cell,,normalizedRNAExpression,nTPM,25.2,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,NK-cells,NK-cell,,proteinCodingRNAExpression,pTPM,34.7,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,NK-cells,NK-cell,,RNAExpression,TPM,27.9,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Monocytes,Non-classical monocyte,,normalizedRNAExpression,nTPM,20.5,5,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Monocytes,Non-classical monocyte,,proteinCodingRNAExpression,pTPM,19.9,5,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Monocytes,Non-classical monocyte,,RNAExpression,TPM,16.6,5,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Dendritic cells,Plasmacytoid DC,,normalizedRNAExpression,nTPM,23.3,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Dendritic cells,Plasmacytoid DC,,proteinCodingRNAExpression,pTPM,26.0,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Dendritic cells,Plasmacytoid DC,,RNAExpression,TPM,21.1,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,T-reg,,normalizedRNAExpression,nTPM,19.6,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,T-reg,,proteinCodingRNAExpression,pTPM,21.0,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,T-cells,T-reg,,RNAExpression,TPM,17.0,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Total PBMC,Total PBMC,,normalizedRNAExpression,nTPM,19.5,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Total PBMC,Total PBMC,,proteinCodingRNAExpression,pTPM,10.8,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
+ACADM,ENSG00000117054,immuneCell,HPA,RNAseq,Total PBMC,Total PBMC,,RNAExpression,TPM,9.2,6,25,2026-11-09T16:33:12Z,human,immuneCell@lineage
