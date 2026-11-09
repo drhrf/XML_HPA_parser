@@ -12,8 +12,8 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - run: pip install "ruff>=0.4"
@@ -27,30 +27,31 @@ jobs:
       matrix:
         python-version: ["3.9", "3.12"]
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: ${{ matrix.python-version }}
-          cache: pip
-      - run: pip install -e ".[dev]"
+      - uses: actions/checkout@v5
+      # uv provides standalone Python builds, so the matrix does not depend on
+      # which versions actions/setup-python ships for the current runner image
+      # (Python 3.9 is no longer available there for Ubuntu 26.04).
+      - uses: astral-sh/setup-uv@v6
+      - run: uv venv --python ${{ matrix.python-version }} .venv
+      - run: uv pip install --python .venv -e ".[dev]"
       # The tests never use the network: downloads are mocked and the
       # HPA XML files come from tests/fixtures/.
-      - run: pytest -q
+      - run: .venv/bin/python -m pytest -q
 
   r-bridge:
     # The Shiny app calls the Python package through reticulate; these
     # testthat tests check that R receives the same table and files.
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - run: pip install -e .
+      # reticulate needs the full path of the interpreter, not just "python".
+      - run: echo "HPA_XML_PARSER_PYTHON=$(python -c 'import sys; print(sys.executable)')" >> "$GITHUB_ENV"
       - uses: r-lib/actions/setup-r@v2
         with:
           use-public-rspm: true
       - run: Rscript -e 'install.packages(c("reticulate", "testthat", "openxlsx"))'
       - run: Rscript -e 'testthat::test_dir("tests/testthat", stop_on_failure = TRUE)'
-        env:
-          HPA_XML_PARSER_PYTHON: python

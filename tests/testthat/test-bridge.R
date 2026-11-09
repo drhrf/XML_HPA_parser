@@ -10,6 +10,11 @@ skip_without_python <- function() {
   py <- Sys.getenv("HPA_XML_PARSER_PYTHON", "")
   if (nzchar(py)) reticulate::use_python(py, required = TRUE)
   if (!reticulate::py_module_available("hpa_xml_parser")) {
+    # Locally, skip; in CI a missing package must fail, not pass silently.
+    if (identical(Sys.getenv("CI"), "true")) {
+      stop("Python package hpa_xml_parser not available to reticulate (python: ",
+           reticulate::py_config()$python, ")")
+    }
     testthat::skip("Python package hpa_xml_parser not available")
   }
 }
