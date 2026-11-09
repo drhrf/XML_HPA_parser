@@ -1,0 +1,2 @@
+parser_version,exported_at,gene_name,ensembl_id,hpa_version,schema_version,ensembl_version,assembly,gencode_version,entry_url,retrieved_at,origin,n_samples,issues
+2.0.0,2026-11-09T16:49:09Z,ACADM,ENSG00000117054,25,3.0,109,GRCh38.p13,43,https://v25.proteinatlas.org/ENSG00000117054,2026-11-09T16:33:12Z,https://www.proteinatlas.org/ENSG00000117054.xml,1447,
