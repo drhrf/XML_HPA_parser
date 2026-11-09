@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/drhrf/XML_HPA_parser/actions/workflows/ci.yml/badge.svg)](https://github.com/drhrf/XML_HPA_parser/actions/workflows/ci.yml)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drhrf/XML_HPA_parser/blob/main/HPA_XML_Parser.ipynb)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24091185.svg)](https://doi.org/10.5281/zenodo.24091185)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 HPA XML Parser extracts **per-sample, gene-level RNA expression** (nTPM, with donor sex and
@@ -180,9 +181,14 @@ The structure behind this schema is documented in
 
 ## Citation
 
-If you use this tool, please cite it (see [`CITATION.cff`](CITATION.cff); a Zenodo DOI will
-be added on release). Please also cite the Human Protein Atlas, as requested on its
-website.
+If you use this tool, please cite it:
+
+> Beltrao-Valente C, Lima EA, de Souza LS, Ferreira GC, Schuck PF, Freitas HR.
+> HPA XML Parser: per-sample RNA expression from Human Protein Atlas per-gene XML files.
+> Version 2.0.0. Zenodo; 2026. https://doi.org/10.5281/zenodo.24091185
+
+Citation metadata are in [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository"
+button uses it). Please also cite the Human Protein Atlas, as requested on its website.
 
 ## License
 

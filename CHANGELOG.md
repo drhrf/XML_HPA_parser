@@ -4,6 +4,12 @@ All notable changes to this project are documented in this file. The format foll
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [Unreleased]
+
+### Added
+- Zenodo DOI of release 2.0.0 ([10.5281/zenodo.24091185](https://doi.org/10.5281/zenodo.24091185)) in `CITATION.cff` and the
+  README, with a DOI badge and a ready-to-use citation.
+
 ## [2.0.0] - 2026-11-09
 
 Complete rewrite, validated against Human Protein Atlas release 25 (XML schema 3.0,
