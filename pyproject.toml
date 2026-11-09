@@ -7,7 +7,7 @@ name = "hpa-xml-parser"
 dynamic = ["version"]
 description = "Extract per-sample RNA expression (nTPM, sex, age) from Human Protein Atlas per-gene XML files."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "GPL-3.0-only" }
 authors = [{ name = "Hércules Rezende Freitas" }]
 keywords = ["Human Protein Atlas", "RNA-seq", "nTPM", "brain", "bioinformatics", "XML"]
@@ -47,7 +47,7 @@ testpaths = ["tests"]
 
 [tool.ruff]
 line-length = 100
-target-version = "py39"
+target-version = "py310"
 
 [tool.ruff.lint]
 select = ["E", "F", "W", "I", "B", "UP"]

@@ -29,7 +29,7 @@ changes, and outputs one tidy table per run.
 
 ## Installation
 
-Python ≥ 3.9:
+Python ≥ 3.10:
 
 ```bash
 pip install "hpa-xml-parser @ git+https://github.com/drhrf/XML_HPA_parser"
@@ -153,7 +153,7 @@ The structure behind this schema is documented in
 * **No column shift.** Every extracted row is checked against the raw `RNASample`
   attributes. A synthetic XML with an unknown attribute placed out of order is parsed
   correctly, and the unknown attribute is kept.
-* CI runs the tests on Python 3.9 and 3.12, the R bridge tests, and ruff.
+* CI runs the tests on Python 3.10 and 3.12, the R bridge tests, and ruff.
 
 ## Limitations
 
