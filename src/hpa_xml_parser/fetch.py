@@ -242,10 +242,19 @@ def fetch_genes(
             continue
         seen.add(key)
         try:
-            genes.append(fetch_gene(ident, **kwargs))
+            gene = fetch_gene(ident, **kwargs)
         except Exception as exc:  # noqa: BLE001 - reported to the user
             if on_error == "raise":
                 raise
             warnings.warn(f"Skipping {ident!r}: {exc}", UserWarning, stacklevel=2)
+            continue
+        if any(g.ensembl_id == gene.ensembl_id for g in genes):
+            warnings.warn(
+                f"{ident!r} is the same gene as an earlier entry ({gene.ensembl_id}); skipped",
+                UserWarning,
+                stacklevel=2,
+            )
+            continue
+        genes.append(gene)
     check_version_consistency({g.gene_name or g.ensembl_id or "?": g.hpa_version for g in genes})
     return genes

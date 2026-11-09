@@ -75,7 +75,20 @@ def main(argv: Sequence[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
     logging.basicConfig(level=logging.INFO, format="%(message)s")
     warnings.simplefilter("always")
+    warnings.formatwarning = _format_warning  # type: ignore[assignment]
     logging.captureWarnings(True)
+    try:
+        return _run(args)
+    except Exception as exc:  # noqa: BLE001 - report cleanly on the command line
+        log.error("error: %s", exc)
+        return 1
+
+
+def _format_warning(message, category, filename, lineno, line=None) -> str:  # noqa: ANN001
+    return f"warning: {message}"
+
+
+def _run(args: argparse.Namespace) -> int:
 
     if args.assay:
         unknown = sorted(set(args.assay) - KNOWN_ASSAYS)
