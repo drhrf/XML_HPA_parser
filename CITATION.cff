@@ -3,6 +3,7 @@ message: "If you use this software, please cite it as below."
 title: "HPA XML Parser: per-sample RNA expression from Human Protein Atlas per-gene XML files"
 version: 2.0.0
 date-released: "2026-11-09"
+doi: 10.5281/zenodo.24091185
 license: GPL-3.0-only
 repository-code: "https://github.com/drhrf/XML_HPA_parser"
 type: software
@@ -28,6 +29,7 @@ keywords:
   - brain
   - transcriptomics
   - XML
-# identifiers:  # add the Zenodo DOI after the release
-#   - type: doi
-#     value: 10.5281/zenodo.XXXXXXX
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24091185
+    description: "Zenodo archive of release 2.0.0"
