@@ -9,7 +9,14 @@ description = "Extract per-sample RNA expression (nTPM, sex, age) from Human Pro
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "GPL-3.0-only" }
-authors = [{ name = "Hércules Rezende Freitas" }]
+authors = [
+    { name = "Clara Beltrao-Valente" },
+    { name = "Elen Azambuja Lima" },
+    { name = "Leticia Soares de Souza" },
+    { name = "Gustavo Costa Ferreira" },
+    { name = "Patricia Fernanda Schuck" },
+    { name = "Hércules Rezende Freitas" },
+]
 keywords = ["Human Protein Atlas", "RNA-seq", "nTPM", "brain", "bioinformatics", "XML"]
 classifiers = [
     "Programming Language :: Python :: 3",

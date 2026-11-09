@@ -6,10 +6,20 @@ license: GPL-3.0-only
 repository-code: "https://github.com/drhrf/XML_HPA_parser"
 type: software
 authors:
+  - family-names: Beltrao-Valente
+    given-names: Clara
+  - family-names: Lima
+    given-names: Elen Azambuja
+  - family-names: Souza
+    given-names: Leticia Soares
+    name-particle: de
+  - family-names: Ferreira
+    given-names: Gustavo Costa
+  - family-names: Schuck
+    given-names: Patricia Fernanda
   - family-names: Freitas
     given-names: Hércules Rezende
     orcid: "https://orcid.org/0000-0003-1584-9157"
-  # Co-authors of the accompanying manuscript will be added after confirmation.
 keywords:
   - Human Protein Atlas
   - RNA-seq
