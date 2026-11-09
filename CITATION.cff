@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "HPA XML Parser: per-sample RNA expression from Human Protein Atlas per-gene XML files"
 version: 2.0.0
+date-released: "2026-11-09"
 license: GPL-3.0-only
 repository-code: "https://github.com/drhrf/XML_HPA_parser"
 type: software
