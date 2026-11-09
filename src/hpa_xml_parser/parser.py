@@ -15,14 +15,14 @@ import os
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass, field
 from pathlib import Path
-from typing import IO, Any, Union
+from typing import IO, Any
 
 import pandas as pd
 
 from . import schema
 from .validation import warn_structure
 
-XMLSource = Union[str, "os.PathLike[str]", bytes, IO[bytes]]
+XMLSource = str | os.PathLike[str] | bytes | IO[bytes]
 
 _GZIP_MAGIC = b"\x1f\x8b"
 _STRING_SAMPLE_COLUMNS = (

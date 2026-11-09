@@ -10,7 +10,7 @@ Complete rewrite, validated against Human Protein Atlas release 25 (XML schema 3
 Ensembl 109).
 
 ### Added
-- Installable Python package `hpa_xml_parser` (`pyproject.toml`, `src/` layout, Python ≥ 3.9)
+- Installable Python package `hpa_xml_parser` (`pyproject.toml`, `src/` layout, Python ≥ 3.10)
   with the API `parse_xml`, `fetch_gene`, `fetch_genes`, `to_frame` and `export`.
 - `hpa-xml-parser` command-line interface with `fetch` (Ensembl IDs, gene symbols or
   `--genes-file`) and `parse` (local `.xml`/`.xml.gz`) subcommands.
@@ -28,7 +28,7 @@ Ensembl 109).
   different HPA releases in one batch.
 - pytest suite with HPA v25 fixtures (ACADM, GFAP, ACTB), mocked downloads, and a
   concordance test against HPA's aggregates; testthat tests for the R bridge; GitHub
-  Actions CI (Python 3.9 and 3.12, R, ruff).
+  Actions CI (Python 3.10 and 3.12, R, ruff).
 - `docs/hpa_xml_structure_v25.md` describing the XML structure the parser relies on.
 - Example output `examples/ACADM_v25.*`.
 - `CITATION.cff` and `.zenodo.json`.

@@ -6,7 +6,6 @@ import os
 import re
 from collections.abc import Iterable, Sequence
 from pathlib import Path
-from typing import Union
 
 import pandas as pd
 
@@ -15,7 +14,7 @@ from .parser import ParsedGene, _utc_iso
 from .schema import SAMPLE_ASSAYS
 from .validation import check_version_consistency
 
-GeneInput = Union[ParsedGene, Iterable[ParsedGene]]
+GeneInput = ParsedGene | Iterable[ParsedGene]
 
 FORMATS = ("csv", "tsv", "xlsx", "parquet")
 
